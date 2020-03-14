@@ -2,6 +2,12 @@
 
 ---
 
+【暂时延后更新】
+
+题目正常在做了，可视化的形式需要之后再想想，用更好的方式呈现。
+
+这段时间就专心写代码了！
+
 This repo contains my solutions in LeetCode.
 
 These solutions are also updated on my blog:  https://starky99.com/leetcode/
@@ -42,7 +48,6 @@ These solutions are also updated on my blog:  https://starky99.com/leetcode/
 
 *4 offer problems are recorded here.*
 [offer-3](https://starky99.com/leetcode/offer-3)	[offer-4](https://starky99.com/leetcode/offer-4)	[offer-59](https://starky99.com/leetcode/offer-59)	[offer-64](https://starky99.com/leetcode/offer-64)	
-
 
 ---
 # Contest
