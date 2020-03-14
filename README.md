@@ -38,10 +38,10 @@ These solutions are also updated on my blog:  https://starky99.com/leetcode/
 [hard-4](https://starky99.com/leetcode/hard-4)	[hard-76](https://starky99.com/leetcode/hard-76)	
 
 ---
-## Interview
+# Offer
 
-*4 interview problems are recorded here.*
-[interview-3](https://starky99.com/leetcode/interview-3)	[interview-4](https://starky99.com/leetcode/interview-4)	[interview-59](https://starky99.com/leetcode/interview-59)	[interview-64](https://starky99.com/leetcode/interview-64)	
+*4 offer problems are recorded here.*
+[offer-3](https://starky99.com/leetcode/offer-3)	[offer-4](https://starky99.com/leetcode/offer-4)	[offer-59](https://starky99.com/leetcode/offer-59)	[offer-64](https://starky99.com/leetcode/offer-64)	
 
 
 ---
