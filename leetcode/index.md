@@ -1,14 +1,10 @@
-# My-LeetCode-Solutions
-
+---
+title: 我的Leetcode题解
+date: 2019-08-30 17:03:25
+urlname: leetcode
 ---
 
-This repo contains my solutions in LeetCode.
-
-These solutions are also updated on my blog:  https://starky99.com/leetcode/
-
----
-## Easy
-
+# Easy
 *83 easy problems are recorded here.*
 [easy-1](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/easy-1.md)	[easy-9](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/easy-9.md)	[easy-14](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/easy-14.md)	[easy-21](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/easy-21.md)	[easy-26](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/easy-26.md)	[easy-27](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/easy-27.md)	[easy-35](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/easy-35.md)	[easy-53](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/easy-53.md)	
 [easy-66](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/easy-66.md)	[easy-70](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/easy-70.md)	[easy-83](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/easy-83.md)	[easy-88](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/easy-88.md)	[easy-104](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/easy-104.md)	[easy-107](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/easy-107.md)	[easy-108](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/easy-108.md)	[easy-118](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/easy-118.md)	
@@ -23,8 +19,7 @@ These solutions are also updated on my blog:  https://starky99.com/leetcode/
 [easy-1217](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/easy-1217.md)	[easy-1281](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/easy-1281.md)	[easy-1295](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/easy-1295.md)	
 
 ---
-## Medium
-
+# Medium
 *16 medium problems are recorded here.*
 [medium-2](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/medium-2.md)	[medium-3](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/medium-3.md)	[medium-5](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/medium-5.md)	[medium-62](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/medium-62.md)	[medium-95](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/medium-95.md)	
 [medium-102](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/medium-102.md)	[medium-159](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/medium-159.md)	[medium-241](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/medium-241.md)	[medium-338](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/medium-338.md)	[medium-524](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/medium-524.md)	
@@ -32,23 +27,21 @@ These solutions are also updated on my blog:  https://starky99.com/leetcode/
 [medium-1221](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/medium-1221.md)	
 
 ---
-## Hard
-
+# Hard
 *2 hard problems are recorded here.*
 [hard-4](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/hard-4.md)	[hard-76](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/hard-76.md)	
 
 ---
 # Offer
-
 *4 offer problems are recorded here.*
 [offer-3](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/offer-3.md)	[offer-4](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/offer-4.md)	[offer-59](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/offer-59.md)	[offer-64](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/offer-64.md)	
 
 
 ---
 # Contest
-
 *2 contest problems are recorded here.*
 [contest-5336](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/contest-5336.md)	[contest-5337](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/contest-5337.md)	
 
 ---
+These solutions are also updated on my [Github](https://github.com/david990917/My-LeetCode-Solutions).
 ***Stay Foolish, Stay Hungry!***
