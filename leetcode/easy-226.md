@@ -73,7 +73,16 @@ class Solution:
             q.left, q.right = q.right, q.left
 
         return root
+```
 
+```
+class Solution:
+    def invertTree(self, root: TreeNode) -> TreeNode:
+        if not root:return None
+        left=root.left
+        root.left=self.invertTree(root.right)
+        root.right=self.invertTree(left)
+        return root
 ```
 
 

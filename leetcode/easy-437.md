@@ -9,17 +9,17 @@ date: 2019-09-01 17:46:00
 
 # 题目
 
-https://leetcode.com/problems/path-sum-iii/description/
+https://leetcode-cn.com/problems/path-sum-iii/
 
-You are given a binary tree in which each node contains an integer value.
+给定一个二叉树，它的每个结点都存放着一个整数值。
 
-Find the number of paths that sum to a given value.
+找出路径和等于给定数值的路径总数。
 
-The path does not need to start or end at the root or a leaf, but it must go downwards (traveling only from parent nodes to child nodes).
+路径不需要从根节点开始，也不需要在叶子节点结束，但是路径方向必须是向下的（只能从父节点到子节点）。
 
-The tree has no more than 1,000 nodes and the values are in the range -1,000,000 to 1,000,000.
+二叉树不超过1000个节点，且节点数值范围是 [-1000000,1000000] 的整数。
 
-**Example:**
+**示例：**
 
 ```
 root = [10,5,-3,3,2,null,11,3,-2,null,1], sum = 8
@@ -32,11 +32,11 @@ root = [10,5,-3,3,2,null,11,3,-2,null,1], sum = 8
  / \   \
 3  -2   1
 
-Return 3. The paths that sum to 8 are:
+返回 3。和等于 8 的路径有:
 
 1.  5 -> 3
 2.  5 -> 2 -> 1
-3. -3 -> 11
+3.  -3 -> 11
 ```
 
 # 解题思路 √
@@ -68,15 +68,88 @@ Return 3. The paths that sum to 8 are:
 - 通过hashmap，以时间换空间
 - 对于这种连续的元素求和问题，有一个共同的思路，可以参考[这道题目](https://github.com/azl397985856/leetcode/blob/master/problems/560.subarray-sum-equals-k.md)
 
-# Python
+# 解题思路 √
+
+### Python
+
+1. 第一想法是递归
 
 ```python
+class Solution:
+    def pathSum(self, root: TreeNode, sum: int) -> int:
+        def pathSumCounter(root,sum):
+            if not root:return 0
+            count=0
+            if root.val==sum:count+=1
+            count+=pathSumCounter(root.left,sum-root.val)
+            count+=pathSumCounter(root.right,sum-root.val)
+            return count
+        
+        if not root:return 0
+        return pathSumCounter(root,sum)+self.pathSum(root.left,sum)+self.pathSum(root.right,sum)
+```
+
+2. hashmap + 前缀和
+
+
+```python
+class Solution:
+    def pathSum(self, root: TreeNode, sum: int) -> int:
+        self.count=0
+        hashtable={0:1}
+        prefixSum=0
+
+        def dfs(root,sum,prefixSum,hashtable):
+            if not root:return 0
+            prefixSum+=root.val
+            if prefixSum-sum in hashtable:
+                self.count+=hashtable[prefixSum-sum]
+            if prefixSum not in hashtable:hashtable[prefixSum]=1
+            else:hashtable[prefixSum]+=1
+            dfs(root.left,sum,prefixSum,hashtable)
+            dfs(root.right,sum,prefixSum,hashtable)
+            hashtable[prefixSum]-=1
+    
+        dfs(root,sum,prefixSum,hashtable)
+        return self.count
+```
+
+3. 遍历
+
+```python
+class Solution:
+    def pathSum(self, root: TreeNode, sum: int) -> int:
+        if not root:return 0
+        count=0
+        stack=[(root,[root.val])]
+        while stack:
+            node,valList=stack.pop()
+            count+=valList.count(sum)
+            valList+=[0]
+            if node.right:
+                newValList=[i+node.right.val for i in valList]
+                stack.append((node.right,newValList))
+            if node.left:
+                newValList=[i+node.left.val for i in valList]
+                stack.append((node.left,newValList))
+        return count
+```
+
+
+
+### C++
+
+```cpp
 
 ```
+
+---
 
 
 
 # 整理与总结
 
 1. 
+
+
 
