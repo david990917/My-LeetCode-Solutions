@@ -69,6 +69,22 @@ class Solution:
         return int(b)
 ```
 
+3. 二分查找
+
+```python
+class Solution:
+    def mySqrt(self, x: int) -> int:
+        if x<=1:return x
+        low,high=1,x
+        while low<=high:
+            mid=low+(high-low)//2
+            sqrt=x//mid
+            if sqrt==mid:return mid
+            elif mid>sqrt:high=mid-1
+            else:low=mid+1
+        return high
+```
+
 
 
 ### C++
