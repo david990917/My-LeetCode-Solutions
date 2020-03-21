@@ -9,28 +9,28 @@ date: 2019-09-01 17:41:48
 
 # 题目
 
-https://leetcode.com/problems/intersection-of-two-arrays/description/
+[两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/)
 
-Given two arrays, write a function to compute their intersection.
+给定两个数组，编写一个函数来计算它们的交集。
 
-**Example 1:**
-
-```
-Input: nums1 = [1,2,2,1], nums2 = [2,2]
-Output: [2]
-```
-
-**Example 2:**
+**示例 1:**
 
 ```
-Input: nums1 = [4,9,5], nums2 = [9,4,9,8,4]
-Output: [9,4]
+输入: nums1 = [1,2,2,1], nums2 = [2,2]
+输出: [2]
 ```
 
-**Note:**
+**示例 2:**
 
-- Each element in the result must be unique.
-- The result can be in any order.
+```
+输入: nums1 = [4,9,5], nums2 = [9,4,9,8,4]
+输出: [9,4]
+```
+
+**说明:**
+
+- 输出结果中的每个元素一定是唯一的。
+- 我们可以不考虑输出结果的顺序。
 
 # 解题思路 √
 

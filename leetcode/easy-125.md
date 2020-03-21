@@ -9,24 +9,24 @@ date: 2019-08-31 16:25:17
 
 # 题目
 
-https://leetcode.com/problems/valid-palindrome/description/
+[验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)
 
-Given a string, determine if it is a palindrome, considering only alphanumeric characters and ignoring cases.
+给定一个字符串，验证它是否是回文串，只考虑字母和数字字符，可以忽略字母的大小写。
 
-**Note:** For the purpose of this problem, we define empty string as valid palindrome.
+**说明：**本题中，我们将空字符串定义为有效的回文串。
 
-**Example 1:**
-
-```
-Input: "A man, a plan, a canal: Panama"
-Output: true
-```
-
-**Example 2:**
+**示例 1:**
 
 ```
-Input: "race a car"
-Output: false
+输入: "A man, a plan, a canal: Panama"
+输出: true
+```
+
+**示例 2:**
+
+```
+输入: "race a car"
+输出: false
 ```
 
 # 解题思路 √

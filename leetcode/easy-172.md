@@ -9,27 +9,27 @@ date: 2019-08-31 17:24:33
 
 # 题目
 
-https://leetcode.com/problems/factorial-trailing-zeroes/description/
+[阶乘后的零](https://leetcode-cn.com/problems/factorial-trailing-zeroes/)
 
-Given an integer *n*, return the number of trailing zeroes in *n*!.
+给定一个整数 *n*，返回 *n*! 结果尾数中零的数量。
 
-**Example 1:**
-
-```
-Input: 3
-Output: 0
-Explanation: 3! = 6, no trailing zero.
-```
-
-**Example 2:**
+**示例 1:**
 
 ```
-Input: 5
-Output: 1
-Explanation: 5! = 120, one trailing zero.
+输入: 3
+输出: 0
+解释: 3! = 6, 尾数中没有零。
 ```
 
-**Note:** Your solution should be in logarithmic time complexity.
+**示例 2:**
+
+```
+输入: 5
+输出: 1
+解释: 5! = 120, 尾数中有 1 个零.
+```
+
+**说明:** 你算法的时间复杂度应为 *O*(log *n*) 。
 
 # 解题思路 √
 
@@ -60,7 +60,6 @@ class Solution:
             return 0
         else:
             return n // 5 + Solution.trailingZeroes(self, n // 5)
-
 ```
 
 

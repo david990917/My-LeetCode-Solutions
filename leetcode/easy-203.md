@@ -9,15 +9,15 @@ date: 2019-09-01 13:30:49
 
 # 题目
 
-https://leetcode.com/problems/remove-linked-list-elements/description/
+[移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)
 
-Remove all elements from a linked list of integers that have value **val**.
+删除链表中等于给定值 **val** 的所有节点。
 
-**Example:**
+**示例:**
 
 ```
-Input:  1->2->6->3->4->5->6, val = 6
-Output: 1->2->3->4->5
+输入: 1->2->6->3->4->5->6, val = 6
+输出: 1->2->3->4->5
 ```
 
 # 解题思路 √
@@ -116,17 +116,17 @@ class Solution:
 	```
    []
    1
-   ```
-   
+  ```
+  
 1. 单字符
-   
+  
    ```
    [1]
    1
    ```
    
 1. 双字符
-   
+  
    ```
    [1,1]
 1

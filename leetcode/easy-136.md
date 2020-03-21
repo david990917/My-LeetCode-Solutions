@@ -9,26 +9,26 @@ date: 2019-08-31 16:46:28
 
 # 题目
 
-https://leetcode.com/problems/single-number/description/
+[只出现一次的数字](https://leetcode-cn.com/problems/single-number/)
 
-Given a **non-empty** array of integers, every element appears *twice* except for one. Find that single one.
+给定一个**非空**整数数组，除了某个元素只出现一次以外，其余每个元素均出现两次。找出那个只出现了一次的元素。
 
-**Note:**
+**说明：**
 
-Your algorithm should have a linear runtime complexity. Could you implement it without using extra memory?
+你的算法应该具有线性时间复杂度。 你可以不使用额外空间来实现吗？
 
-**Example 1:**
-
-```
-Input: [2,2,1]
-Output: 1
-```
-
-**Example 2:**
+**示例 1:**
 
 ```
-Input: [4,1,2,1,2]
-Output: 4
+输入: [2,2,1]
+输出: 1
+```
+
+**示例 2:**
+
+```
+输入: [4,1,2,1,2]
+输出: 4
 ```
 
 # 解题思路 √
@@ -42,11 +42,10 @@ Output: 4
 1. 异或的性质 两个数字异或的结果`a^b`是将 a 和 b 的二进制每一位进行运算，得出的数字。 运算的逻辑是 如果同一位的数字相同则为 0，不同则为 1
 2. 异或的规律
 
-- 任何数和本身异或则为`0`
-- 任何数和 0 异或是`本身`
-
-1. 很多人只是记得异或的性质和规律，但是缺乏对其本质的理解，导致很难想到这种解法（我本人也没想到）
-2. bit 运算
+   - 任何数和本身异或则为`0`
+   - 任何数和 0 异或是`本身`
+3. 很多人只是记得异或的性质和规律，但是缺乏对其本质的理解，导致很难想到这种解法（我本人也没想到）
+4. bit 运算
 
 # Python
 

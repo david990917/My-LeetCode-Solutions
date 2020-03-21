@@ -9,29 +9,29 @@ date: 2019-09-01 14:05:58
 
 # 题目
 
-https://leetcode.com/problems/contains-duplicate-ii/description/
+[存在重复元素 II](https://leetcode-cn.com/problems/contains-duplicate-ii/)
 
-Given an array of integers and an integer *k*, find out whether there are two distinct indices *i* and *j* in the array such that **nums[i] = nums[j]** and the **absolute**difference between *i* and *j* is at most *k*.
+给定一个整数数组和一个整数 *k*，判断数组中是否存在两个不同的索引 *i* 和 *j*，使得 **nums [i] = nums [j]**，并且 *i* 和 *j* 的差的绝对值最大为 *k*。
 
-**Example 1:**
-
-```
-Input: nums = [1,2,3,1], k = 3
-Output: true
-```
-
-**Example 2:**
+**示例 1:**
 
 ```
-Input: nums = [1,0,1,1], k = 1
-Output: true
+输入: nums = [1,2,3,1], k = 3
+输出: true
 ```
 
-**Example 3:**
+**示例 2:**
 
 ```
-Input: nums = [1,2,3,1,2,3], k = 2
-Output: false
+输入: nums = [1,0,1,1], k = 1
+输出: true
+```
+
+**示例 3:**
+
+```
+输入: nums = [1,2,3,1,2,3], k = 2
+输出: false
 ```
 
 # 解题思路 √

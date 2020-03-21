@@ -9,17 +9,16 @@ date: 2019-08-30 19:29:01
 
 # 题目
 
-https://leetcode.com/problems/maximum-depth-of-binary-tree/description/
+[二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
 
-Given a binary tree, find its maximum depth.
+给定一个二叉树，找出其最大深度。
 
-The maximum depth is the number of nodes along the longest path from the root node down to the farthest leaf node.
+二叉树的深度为根节点到最远叶子节点的最长路径上的节点数。
 
-**Note:** A leaf is a node with no children.
+**说明:** 叶子节点是指没有子节点的节点。
 
-**Example:**
-
-Given binary tree `[3,9,20,null,null,15,7]`,
+**示例：**
+给定二叉树 `[3,9,20,null,null,15,7]`，
 
 ```
     3
@@ -29,7 +28,7 @@ Given binary tree `[3,9,20,null,null,15,7]`,
    15   7
 ```
 
-return its depth = 3.
+返回它的最大深度 3 
 
 # 思路 √
 
@@ -45,7 +44,7 @@ return its depth = 3.
 
 # Python
 
-我的递归解法：
+1. 我的递归解法：
 
 ```python
 # Definition for a binary tree node.
@@ -62,7 +61,7 @@ class Solution:
         return 1 + max(Solution.maxDepth(self,root.left),Solution.maxDepth(self,root.right))
 ```
 
-迭代解法：
+2. 迭代解法：
 
 ```python
 class Solution:
@@ -78,6 +77,21 @@ class Solution:
                 q.append(None)
                 depth += 1
         return depth
+```
+
+3. 迭代解法
+
+```python
+class Solution:
+    def maxDepth(self, root: TreeNode) -> int:
+        if not root:return 0
+        deq,maxDepth=[(root,1)],1
+        while deq:
+            node,depth=deq.pop(0)
+            maxDepth=max(maxDepth,depth)
+            if node.left:deq.append((node.left,depth+1))
+            if node.right:deq.append((node.right,depth+1))
+        return maxDepth
 ```
 
 

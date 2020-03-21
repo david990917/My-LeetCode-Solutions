@@ -9,22 +9,22 @@ date: 2019-09-01 17:57:08
 
 # 题目
 
-https://leetcode.com/problems/sum-of-two-integers/description/
+[两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers/)
 
-Calculate the sum of two integers *a* and *b*, but you are **not allowed** to use the operator `+` and `-`.
+**不使用**运算符 `+` 和 `-` ，计算两整数 `a` 、`b` 之和。
 
-**Example 1:**
-
-```
-Input: a = 1, b = 2
-Output: 3
-```
-
-**Example 2:**
+**示例 1:**
 
 ```
-Input: a = -2, b = 3
-Output: 1
+输入: a = 1, b = 2
+输出: 3
+```
+
+**示例 2:**
+
+```
+输入: a = -2, b = 3
+输出: 1
 ```
 
 # 解题思路 √

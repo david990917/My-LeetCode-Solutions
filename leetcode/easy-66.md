@@ -45,7 +45,7 @@ class Solution:
 class Solution:
     def plusOne(self, digits: List[int]) -> List[int]:
         length=len(digits)
-        for i in range(length-1,0,-1):
+        for i in range(length-1,-1,-1):
             digits[i]= (digits[i]+1)%10
             if digits[i]: return digits
         
