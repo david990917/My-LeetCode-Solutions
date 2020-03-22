@@ -9,29 +9,26 @@ date: 2019-09-25 16:29:04
 
 # 题目
 
-https://leetcode.com/problems/partition-labels/
+[划分字母区间](https://leetcode-cn.com/problems/partition-labels/)
 
-A string `S` of lowercase letters is given. We want to partition this string into as many parts as possible so that each letter appears in at most one part, and return a list of integers representing the size of these parts.
+字符串 S 由小写字母组成。我们要把这个字符串划分为尽可能多的片段，同一个字母只会出现在其中的一个片段。返回一个表示每个字符串片段的长度的列表。
 
-
-
-**Example 1:**
+示例 1:
 
 ```
-Input: S = "ababcbacadefegdehijhklij"
-Output: [9,7,8]
-Explanation:
-The partition is "ababcbaca", "defegde", "hijhklij".
-This is a partition so that each letter appears in at most one part.
-A partition like "ababcbacadefegde", "hijhklij" is incorrect, because it splits S into less parts.
+输入: S = "ababcbacadefegdehijhklij"
+输出: [9,7,8]
+解释:
+划分结果为 "ababcbaca", "defegde", "hijhklij"。
+每个字母最多出现在一个片段中。
+像 "ababcbacadefegde", "hijhklij" 的划分是错误的，因为划分的片段数较少。
 ```
 
 
+注意:
 
-**Note:**
-
-1. `S` will have length in range `[1, 500]`.
-2. `S` will consist of lowercase letters (`'a'` to `'z'`) only.
+- S的长度在[1, 500]之间。
+- S只包含小写字母'a'到'z'。
 
 # 解题思路 √
 
@@ -47,21 +44,17 @@ A partition like "ababcbacadefegde", "hijhklij" is incorrect, because it splits 
 ```python
 class Solution:
     def partitionLabels(self, S: str) -> List[int]:
-        dict={}
-        for i in range(len(S)):
-            dict[S[i]]=i
+        hashmap={}
+        for idx,char in enumerate(S):hashmap[char]=idx
         
-        
-        start=end=0
-        res=[]
-        for i in range(len(S)):
-            if dict[S[i]]>end:
-                end=dict[S[i]]
-            if i==end:
-                res.append(end-start+1)            
+        result,start,end=[],0,0
+        for idx,char in enumerate(S):
+            if hashmap[char]>end:
+                end=hashmap[char]
+            if idx==end:
+                result.append(end-start+1)
                 start=end+1
-        return res
-            
+        return result
 ```
 
 
