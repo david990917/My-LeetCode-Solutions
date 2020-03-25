@@ -60,11 +60,12 @@ These solutions are also updated on my blog:  https://starky99.com/leetcode/
 ---
 # Offer
 
-*12 offer problems are recorded here.*
+*17 offer problems are recorded here.*
 [offer-3](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/offer-3.md)	[offer-4](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/offer-4.md)	[offer-5](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/offer-5.md)	[offer-6](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/offer-6.md)	
 [offer-7](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/offer-7.md)	[offer-8](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/offer-8.md)	[offer-9](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/offer-9.md)	[offer-10](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/offer-10.md)	
-[offer-11](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/offer-11.md)	[offer-40](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/offer-40.md)	[offer-59](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/offer-59.md)	[offer-64](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/offer-64.md)	
-
+[offer-11](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/offer-11.md)	[offer-16](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/offer-16.md)	[offer-17](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/offer-17.md)	[offer-18](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/offer-18.md)	
+[offer-19](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/offer-19.md)	[offer-20](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/offer-20.md)	[offer-40](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/offer-40.md)	[offer-59](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/offer-59.md)	
+[offer-64](https://github.com/david990917/My-LeetCode-Solutions/blob/master/leetcode/offer-64.md)	
 
 ---
 # Contest
