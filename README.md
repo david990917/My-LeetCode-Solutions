@@ -2,6 +2,10 @@
 
 ---
 
+[2020.05.05]这个仓库暂时搁置一下。
+
+我觉得没有太大必要复制粘贴题解，目前有一个正在进行的反向整理的过程。
+
 This repo contains my solutions in LeetCode.
 
 These solutions are also updated on my blog:  https://starky99.com/leetcode/
