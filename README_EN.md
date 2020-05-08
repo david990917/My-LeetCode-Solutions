@@ -1,5 +1,5 @@
 
-<p align="center"> | English | [简体中文](README.md) | [Guidance指南](Guidance.md) | </p>
+| English | [简体中文](README.md) | [Guidance指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/User-starky99-blue.svg?" alt="">
     <img src="https://img.shields.io/badge/Solved-403/1640-blue.svg?" alt="">
@@ -11,7 +11,7 @@
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2020-05-09 01:39:52</b>
+    <b>最近一次更新: 2020-05-09 01:41:58</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
