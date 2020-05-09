@@ -32,10 +32,17 @@
 
 ### Python
 
-1. 
+1. 位运算：异或和计算1的个数
 
 ```python
-
+class Solution:
+    def hammingDistance(self, x: int, y: int) -> int:
+        number=x^y
+        count=0
+        while number!=0:
+            number&=number-1
+            count+=1
+        return count
 ```
 
 
