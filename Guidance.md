@@ -27,7 +27,7 @@ pip install -r requirements.txt
 此处建议保存命令形式，或者使用 `PyCharm` 进行配置。同时**斜杠**形式需要与我保持一致
 
 ```
-python leetcode-cn-crawler.py
+python leetcode-cn-crawler-raw.py
 	-u		$YourUserName$
 	-p		$YourPassword$
 	-dp		$YourDataBasePath$ e.g. leetcode-cn.db
@@ -59,7 +59,7 @@ python leetcode-cn-crawler.py
 都是数据库增量爬虫 - **数据库文件很重要**！
 
 - 爬虫主仓库：**全部题目**，中文版本README为纯题目
-  - `leetcode-cn-crawler` 是纯题目，`leetcode-cn-crawler-id`是 增加个人定制的模板
+  - `leetcode-cn-crawler-raw` 是纯题目，`leetcode-cn-crawler` 是 增加个人定制的模板
   - 减少同步的复杂性，只需要爬虫仓库和本地仓库（PyCharm）分别运行即可。
 - 本地代码库：**通过的题目**，中文版本README为**题目 + 个人整理与总结模板**
   - 个人整理与题目总结推送到 [My-LeetCode-Solutions](https://github.com/david990917/My-LeetCode-Solutions)
