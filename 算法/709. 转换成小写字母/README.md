@@ -29,10 +29,12 @@
 
 ### Python
 
-1. 
+1. 直接调用库就可以
 
 ```python
-
+class Solution:
+    def toLowerCase(self, str: str) -> str:
+        return str.lower()
 ```
 
 
@@ -43,7 +45,16 @@
 ### C++
 
 ```cpp
-
+class Solution {
+public:
+    string toLowerCase(string str) {
+        int length=str.size();
+        for(int i=0;i<length;i++){
+            if('A'<=str[i]&&str[i]<='Z'){str[i]-='A'-'a';}
+        }
+        return str;
+    }
+};
 ```
 
 ---
