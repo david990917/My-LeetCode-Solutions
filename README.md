@@ -2,8 +2,8 @@
 | [English](README_EN.md) | 简体中文 | [Guidance指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/用户-starky99-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/已解决-403/1640-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/简单-243-green.svg?" alt="">
+    <img src="https://img.shields.io/badge/已解决-405/1640-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/简单-245-green.svg?" alt="">
     <img src="https://img.shields.io/badge/中等-139-orange.svg?" alt="">
     <img src="https://img.shields.io/badge/困难-21-red.svg?" alt="">
 </p>
@@ -11,7 +11,7 @@
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2020-05-09 01:41:58</b>
+    <b>最近一次更新: 2020-05-09 23:57:31</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
@@ -198,6 +198,7 @@
 |[453](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements)|[最小移动次数使数组元素相等](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/453.%20最小移动次数使数组元素相等)|简单|[数学](https://leetcode-cn.com/tag/math) |
 |[455](https://leetcode-cn.com/problems/assign-cookies)|[分发饼干](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/455.%20分发饼干)|简单|[贪心算法](https://leetcode-cn.com/tag/greedy) |
 |[460](https://leetcode-cn.com/problems/lfu-cache)|[LFU缓存](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/460.%20LFU缓存)|困难|[设计](https://leetcode-cn.com/tag/design) |
+|[461](https://leetcode-cn.com/problems/hamming-distance)|[汉明距离](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/461.%20汉明距离)|简单|[位运算](https://leetcode-cn.com/tag/bit-manipulation) |
 |[463](https://leetcode-cn.com/problems/island-perimeter)|[岛屿的周长](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/463.%20岛屿的周长)|简单|[哈希表](https://leetcode-cn.com/tag/hash-table) |
 |[466](https://leetcode-cn.com/problems/count-the-repetitions)|[统计重复个数](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/466.%20统计重复个数)|困难|[动态规划](https://leetcode-cn.com/tag/dynamic-programming) |
 |[468](https://leetcode-cn.com/problems/validate-ip-address)|[验证IP地址](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/468.%20验证IP地址)|中等|[字符串](https://leetcode-cn.com/tag/string) |
@@ -255,6 +256,7 @@
 |[728](https://leetcode-cn.com/problems/self-dividing-numbers)|[自除数](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/728.%20自除数)|简单|[数学](https://leetcode-cn.com/tag/math) |
 |[733](https://leetcode-cn.com/problems/flood-fill)|[图像渲染](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/733.%20图像渲染)|简单|[深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) |
 |[739](https://leetcode-cn.com/problems/daily-temperatures)|[每日温度](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/739.%20每日温度)|中等|[栈](https://leetcode-cn.com/tag/stack) [哈希表](https://leetcode-cn.com/tag/hash-table) |
+|[709](https://leetcode-cn.com/problems/to-lower-case)|[转换成小写字母](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/709.%20转换成小写字母)|简单|[字符串](https://leetcode-cn.com/tag/string) |
 |[746](https://leetcode-cn.com/problems/min-cost-climbing-stairs)|[使用最小花费爬楼梯](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/746.%20使用最小花费爬楼梯)|简单|[数组](https://leetcode-cn.com/tag/array) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) |
 |[747](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others)|[至少是其他数字两倍的最大数](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/747.%20至少是其他数字两倍的最大数)|简单|[数组](https://leetcode-cn.com/tag/array) |
 |[752](https://leetcode-cn.com/problems/open-the-lock)|[打开转盘锁](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/752.%20打开转盘锁)|中等|[广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search) |

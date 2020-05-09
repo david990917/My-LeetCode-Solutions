@@ -2,8 +2,8 @@
 | English | [简体中文](README.md) | [Guidance指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/User-starky99-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Solved-403/1640-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Easy-243-green.svg?" alt="">
+    <img src="https://img.shields.io/badge/Solved-405/1640-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/Easy-245-green.svg?" alt="">
     <img src="https://img.shields.io/badge/Medium-139-orange.svg?" alt="">
     <img src="https://img.shields.io/badge/Hard-21-red.svg?" alt="">
 </p>
@@ -11,7 +11,7 @@
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2020-05-09 01:41:58</b>
+    <b>最近一次更新: 2020-05-09 23:57:31</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
@@ -198,6 +198,7 @@
 |[453](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements)|[Minimum Moves to Equal Array Elements](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/453.%20最小移动次数使数组元素相等/README_EN.md)|Easy|[Math](https://leetcode-cn.com/tag/math) |
 |[455](https://leetcode-cn.com/problems/assign-cookies)|[Assign Cookies](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/455.%20分发饼干/README_EN.md)|Easy|[Greedy](https://leetcode-cn.com/tag/greedy) |
 |[460](https://leetcode-cn.com/problems/lfu-cache)|[LFU Cache](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/460.%20LFU缓存/README_EN.md)|Hard|[Design](https://leetcode-cn.com/tag/design) |
+|[461](https://leetcode-cn.com/problems/hamming-distance)|[Hamming Distance](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/461.%20汉明距离/README_EN.md)|Easy|[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) |
 |[463](https://leetcode-cn.com/problems/island-perimeter)|[Island Perimeter](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/463.%20岛屿的周长/README_EN.md)|Easy|[Hash Table](https://leetcode-cn.com/tag/hash-table) |
 |[466](https://leetcode-cn.com/problems/count-the-repetitions)|[Count The Repetitions](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/466.%20统计重复个数/README_EN.md)|Hard|[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) |
 |[468](https://leetcode-cn.com/problems/validate-ip-address)|[Validate IP Address](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/468.%20验证IP地址/README_EN.md)|Medium|[String](https://leetcode-cn.com/tag/string) |
@@ -255,6 +256,7 @@
 |[728](https://leetcode-cn.com/problems/self-dividing-numbers)|[Self Dividing Numbers](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/728.%20自除数/README_EN.md)|Easy|[Math](https://leetcode-cn.com/tag/math) |
 |[733](https://leetcode-cn.com/problems/flood-fill)|[Flood Fill](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/733.%20图像渲染/README_EN.md)|Easy|[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) |
 |[739](https://leetcode-cn.com/problems/daily-temperatures)|[Daily Temperatures](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/739.%20每日温度/README_EN.md)|Medium|[Stack](https://leetcode-cn.com/tag/stack) [Hash Table](https://leetcode-cn.com/tag/hash-table) |
+|[709](https://leetcode-cn.com/problems/to-lower-case)|[To Lower Case](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/709.%20转换成小写字母/README_EN.md)|Easy|[String](https://leetcode-cn.com/tag/string) |
 |[746](https://leetcode-cn.com/problems/min-cost-climbing-stairs)|[Min Cost Climbing Stairs](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/746.%20使用最小花费爬楼梯/README_EN.md)|Easy|[Array](https://leetcode-cn.com/tag/array) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) |
 |[747](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others)|[Largest Number At Least Twice of Others](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/747.%20至少是其他数字两倍的最大数/README_EN.md)|Easy|[Array](https://leetcode-cn.com/tag/array) |
 |[752](https://leetcode-cn.com/problems/open-the-lock)|[Open the Lock](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/752.%20打开转盘锁/README_EN.md)|Medium|[Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) |
