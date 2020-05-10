@@ -69,10 +69,57 @@
 
 ### Python
 
-1. 
+1. 线性扫描 - 循环：
+
+   **总结：**
+
+   - 循环内部进行常规的判断：能定论 `break` ； 不能定论 `continue`
+   - 跳出循环的时候判断一下 `idx==length`
+
+   **分析：**
+
+   - 先进行有效处理，然后进行退出判断，最后进行无效`continue` 
+
+     👆这个退出是在有效长度范围末尾 ==length-1，`for` 循环内部这样操作
+
+     但是是不是更常见是在 **循环外面** 进行判断（需要==length）
+
+   - 先退出判断；并列有效处理，无效 `continue` 
+
+     👆退出是超出有效范围 ==length，可以用于调用的递归函数中
 
 ```python
-
+class Solution:
+    def myAtoi(self, str: str) -> int:
+        length=len(str)
+        unsignedFlag=False
+        if length==0:return 0
+        for idx,char in enumerate(str): 
+            if char=='+' or char=='-':
+                unsignedFlag=False
+                break
+            if '0'<=char<='9':
+                unsignedFlag=True
+                break
+            if char==' ':continue
+            else:return 0
+        if idx==length:return 0    
+        
+        if unsignedFlag:
+            numberIDX=idx
+            result=0
+            while numberIDX<length and '0'<=str[numberIDX]<='9':
+                result=result*10+int(str[numberIDX])
+                numberIDX+=1
+            return min(result,2**31-1)
+        else:
+            numberIDX=idx+1
+            if numberIDX==length or not '0'<=str[numberIDX]<='9':return 0
+            result=0
+            while numberIDX<length and '0'<=str[numberIDX]<='9':
+                result=result*10+int(str[numberIDX])
+                numberIDX+=1
+            return min(result,2**31-1) if str[idx]=='+' else max(-result,-2**31)
 ```
 
 
@@ -82,8 +129,53 @@
 
 ### C++
 
-```cpp
+官方题解里面提到了**自动机** - 为了避免处理字符串臃肿的代码
 
+![fig1](README/8_fig1.PNG)
+
+|               | **' '** | **+/-** | **number** | **other** |
+| :------------ | :-----: | :-----: | :--------: | :-------: |
+| **start**     |  start  | signed  | in_number  |    end    |
+| **signed**    |   end   |   end   | in_number  |    end    |
+| **in_number** |   end   |   end   | in_number  |    end    |
+| **end**       |   end   |   end   |    end     |    end    |
+
+```cpp
+class Automaton {
+	string state = "start";
+	unordered_map<string, vector<string>> table = {
+		{"start",{"start","signed","in_number","end"}},
+		{"signed",{"end","end","in_number","end"}},
+		{"in_number",{"end","end","in_number","end"}},
+		{"end",{"end","end","end","end"}}
+	};
+	int get_col(char c) {
+		if (isspace(c))return 0;
+		if (c == '+' or c == '-')return 1;
+		if (isdigit(c))return 2;
+		return 3;
+	}
+public:
+	int sign = 1;
+	long long ans = 0;
+    void get(char c){
+        state=table[state][get_col(c)];
+        if(state=="in_number"){
+            ans=ans*10+c-'0';
+            ans=sign==1?min(ans,(long long)INT_MAX):min(ans,-(long long)INT_MIN);
+        }
+        else if(state=="signed"){sign=c=='+'?1:-1;}
+    }
+};
+
+class Solution {
+public:
+    int myAtoi(string str) {
+        Automaton automaton;
+        for(char c:str){automaton.get(c);}
+        return automaton.sign*automaton.ans;
+    }
+};
 ```
 
 ---
@@ -92,4 +184,13 @@
 
 # 整理与总结
 
-1. 
+1. 循环操作，见上
+
+2. C++ 中数字
+
+   ```
+   cout<<(long long)INT_MAX<<endl; //2147483647
+   cout<<(long long)INT_MIN<<endl; //-2147483648
+   ```
+
+3. C++ 中居然支持 and / or 作为逻辑运算符
