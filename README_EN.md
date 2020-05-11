@@ -2,8 +2,8 @@
 | English | [简体中文](README.md) | [Guidance指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/User-starky99-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Solved-410/1644-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Easy-246-green.svg?" alt="">
+    <img src="https://img.shields.io/badge/Solved-411/1644-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/Easy-247-green.svg?" alt="">
     <img src="https://img.shields.io/badge/Medium-143-orange.svg?" alt="">
     <img src="https://img.shields.io/badge/Hard-21-red.svg?" alt="">
 </p>
@@ -11,7 +11,7 @@
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2020-05-11 21:50:53</b>
+    <b>最近一次更新: 2020-05-11 22:34:58</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
@@ -420,6 +420,7 @@
 |[面试题 02.02](https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci)|[Kth Node From End of List LCCI](https://github.com/david990917/My-LeetCode-Solutions/tree/master/程序员面试金典/面试题%2002.02.%20返回倒数第%20k%20个节点/README_EN.md)|Easy|[Linked List](https://leetcode-cn.com/tag/linked-list) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) |
 |[面试题 17.16](https://leetcode-cn.com/problems/the-masseuse-lcci)|[The Masseuse LCCI](https://github.com/david990917/My-LeetCode-Solutions/tree/master/程序员面试金典/面试题%2017.16.%20按摩师/README_EN.md)|Easy|[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) |
 |[面试题 17.01](https://leetcode-cn.com/problems/add-without-plus-lcci)|[Add Without Plus LCCI](https://github.com/david990917/My-LeetCode-Solutions/tree/master/程序员面试金典/面试题%2017.01.%20不用加号的加法/README_EN.md)|Easy|[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) |
+|[面试题 17.04](https://leetcode-cn.com/problems/missing-number-lcci)|[Missing Number LCCI](https://github.com/david990917/My-LeetCode-Solutions/tree/master/程序员面试金典/面试题%2017.04.%20消失的数字/README_EN.md)|Easy|[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) [Array](https://leetcode-cn.com/tag/array) [Math](https://leetcode-cn.com/tag/math) |
 |[LCP 06](https://leetcode-cn.com/problems/na-ying-bi)|[拿硬币](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/LCP%2006.%20拿硬币/README_EN.md)|Easy||
 |[LCP 08](https://leetcode-cn.com/problems/ju-qing-hong-fa-shi-jian)|[剧情触发时间](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/LCP%2008.%20剧情触发时间/README_EN.md)|Medium||
 |[LCP 07](https://leetcode-cn.com/problems/chuan-di-xin-xi)|[传递信息](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/LCP%2007.%20传递信息/README_EN.md)|Easy||
