@@ -2,16 +2,16 @@
 | [English](README_EN.md) | 简体中文 | [Guidance指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/用户-starky99-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/已解决-409/1644-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/已解决-410/1644-blue.svg?" alt="">
     <img src="https://img.shields.io/badge/简单-246-green.svg?" alt="">
-    <img src="https://img.shields.io/badge/中等-142-orange.svg?" alt="">
+    <img src="https://img.shields.io/badge/中等-143-orange.svg?" alt="">
     <img src="https://img.shields.io/badge/困难-21-red.svg?" alt="">
 </p>
 <h1 align="center">My LeetCode Solutions</h1>
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2020-05-11 21:33:32</b>
+    <b>最近一次更新: 2020-05-11 21:50:53</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
@@ -47,6 +47,7 @@
 |[46](https://leetcode-cn.com/problems/permutations)|[全排列](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/46.%20全排列)|中等|[回溯算法](https://leetcode-cn.com/tag/backtracking) |
 |[47](https://leetcode-cn.com/problems/permutations-ii)|[全排列 II](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/47.%20全排列%20II)|中等|[回溯算法](https://leetcode-cn.com/tag/backtracking) |
 |[48](https://leetcode-cn.com/problems/rotate-image)|[旋转图像](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/48.%20旋转图像)|中等|[数组](https://leetcode-cn.com/tag/array) |
+|[50](https://leetcode-cn.com/problems/powx-n)|[Pow(x, n)](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/50.%20Pow(x,%20n))|中等|[数学](https://leetcode-cn.com/tag/math) [二分查找](https://leetcode-cn.com/tag/binary-search) |
 |[51](https://leetcode-cn.com/problems/n-queens)|[N皇后](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/51.%20N皇后)|困难|[回溯算法](https://leetcode-cn.com/tag/backtracking) |
 |[53](https://leetcode-cn.com/problems/maximum-subarray)|[最大子序和](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/53.%20最大子序和)|简单|[数组](https://leetcode-cn.com/tag/array) [分治算法](https://leetcode-cn.com/tag/divide-and-conquer) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) |
 |[54](https://leetcode-cn.com/problems/spiral-matrix)|[螺旋矩阵](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/54.%20螺旋矩阵)|中等|[数组](https://leetcode-cn.com/tag/array) |
