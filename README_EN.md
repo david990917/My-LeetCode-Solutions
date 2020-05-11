@@ -2,16 +2,16 @@
 | English | [简体中文](README.md) | [Guidance指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/User-starky99-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Solved-406/1640-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Easy-245-green.svg?" alt="">
-    <img src="https://img.shields.io/badge/Medium-140-orange.svg?" alt="">
+    <img src="https://img.shields.io/badge/Solved-409/1644-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/Easy-246-green.svg?" alt="">
+    <img src="https://img.shields.io/badge/Medium-142-orange.svg?" alt="">
     <img src="https://img.shields.io/badge/Hard-21-red.svg?" alt="">
 </p>
 <h1 align="center">My LeetCode Solutions</h1>
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2020-05-10 00:40:44</b>
+    <b>最近一次更新: 2020-05-11 21:33:32</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
@@ -97,6 +97,7 @@
 |[141](https://leetcode-cn.com/problems/linked-list-cycle)|[Linked List Cycle](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/141.%20环形链表/README_EN.md)|Easy|[Linked List](https://leetcode-cn.com/tag/linked-list) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) |
 |[144](https://leetcode-cn.com/problems/binary-tree-preorder-traversal)|[Binary Tree Preorder Traversal](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/144.%20二叉树的前序遍历/README_EN.md)|Medium|[Stack](https://leetcode-cn.com/tag/stack) [Tree](https://leetcode-cn.com/tag/tree) |
 |[145](https://leetcode-cn.com/problems/binary-tree-postorder-traversal)|[Binary Tree Postorder Traversal](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/145.%20二叉树的后序遍历/README_EN.md)|Hard|[Stack](https://leetcode-cn.com/tag/stack) [Tree](https://leetcode-cn.com/tag/tree) |
+|[148](https://leetcode-cn.com/problems/sort-list)|[Sort List](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/148.%20排序链表/README_EN.md)|Medium|[Sort](https://leetcode-cn.com/tag/sort) [Linked List](https://leetcode-cn.com/tag/linked-list) |
 |[150](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation)|[Evaluate Reverse Polish Notation](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/150.%20逆波兰表达式求值/README_EN.md)|Medium|[Stack](https://leetcode-cn.com/tag/stack) |
 |[154](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii)|[Find Minimum in Rotated Sorted Array II](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/154.%20寻找旋转排序数组中的最小值%20II/README_EN.md)|Hard|[Array](https://leetcode-cn.com/tag/array) [Binary Search](https://leetcode-cn.com/tag/binary-search) |
 |[155](https://leetcode-cn.com/problems/min-stack)|[Min Stack](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/155.%20最小栈/README_EN.md)|Easy|[Stack](https://leetcode-cn.com/tag/stack) [Design](https://leetcode-cn.com/tag/design) |
@@ -353,6 +354,8 @@
 |[1417](https://leetcode-cn.com/problems/reformat-the-string)|[Reformat The String](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1417.%20重新格式化字符串/README_EN.md)|Easy|[String](https://leetcode-cn.com/tag/string) |
 |[1422](https://leetcode-cn.com/problems/maximum-score-after-splitting-a-string)|[Maximum Score After Splitting a String](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1422.%20分割字符串的最大得分/README_EN.md)|Easy|[String](https://leetcode-cn.com/tag/string) |
 |[1436](https://leetcode-cn.com/problems/destination-city)|[Destination City](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1436.%20旅行终点站/README_EN.md)|Easy|[String](https://leetcode-cn.com/tag/string) |
+|[1441](https://leetcode-cn.com/problems/build-an-array-with-stack-operations)|[Build an Array With Stack Operations](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1441.%20用栈操作构建数组/README_EN.md)|Easy|[Stack](https://leetcode-cn.com/tag/stack) |
+|[1442](https://leetcode-cn.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor)|[Count Triplets That Can Form Two Arrays of Equal XOR](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1442.%20形成两个异或相等数组的三元组数目/README_EN.md)|Medium|[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) [Array](https://leetcode-cn.com/tag/array) [Math](https://leetcode-cn.com/tag/math) |
 |[LCP 01](https://leetcode-cn.com/problems/guess-numbers)|[Guess Numbers](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/LCP%2001.%20猜数字/README_EN.md)|Easy||
 |[面试题 01.06](https://leetcode-cn.com/problems/compress-string-lcci)|[Compress String LCCI](https://github.com/david990917/My-LeetCode-Solutions/tree/master/程序员面试金典/面试题%2001.06.%20字符串压缩/README_EN.md)|Easy|[String](https://leetcode-cn.com/tag/string) |
 |[面试题 04.02](https://leetcode-cn.com/problems/minimum-height-tree-lcci)|[Minimum Height Tree LCCI](https://github.com/david990917/My-LeetCode-Solutions/tree/master/程序员面试金典/面试题%2004.02.%20最小高度树/README_EN.md)|Easy|[Tree](https://leetcode-cn.com/tag/tree) [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) |

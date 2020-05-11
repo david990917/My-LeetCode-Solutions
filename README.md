@@ -2,16 +2,16 @@
 | [English](README_EN.md) | 简体中文 | [Guidance指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/用户-starky99-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/已解决-406/1640-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/简单-245-green.svg?" alt="">
-    <img src="https://img.shields.io/badge/中等-140-orange.svg?" alt="">
+    <img src="https://img.shields.io/badge/已解决-409/1644-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/简单-246-green.svg?" alt="">
+    <img src="https://img.shields.io/badge/中等-142-orange.svg?" alt="">
     <img src="https://img.shields.io/badge/困难-21-red.svg?" alt="">
 </p>
 <h1 align="center">My LeetCode Solutions</h1>
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2020-05-10 00:40:44</b>
+    <b>最近一次更新: 2020-05-11 21:33:32</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
@@ -97,6 +97,7 @@
 |[141](https://leetcode-cn.com/problems/linked-list-cycle)|[环形链表](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/141.%20环形链表)|简单|[链表](https://leetcode-cn.com/tag/linked-list) [双指针](https://leetcode-cn.com/tag/two-pointers) |
 |[144](https://leetcode-cn.com/problems/binary-tree-preorder-traversal)|[二叉树的前序遍历](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/144.%20二叉树的前序遍历)|中等|[栈](https://leetcode-cn.com/tag/stack) [树](https://leetcode-cn.com/tag/tree) |
 |[145](https://leetcode-cn.com/problems/binary-tree-postorder-traversal)|[二叉树的后序遍历](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/145.%20二叉树的后序遍历)|困难|[栈](https://leetcode-cn.com/tag/stack) [树](https://leetcode-cn.com/tag/tree) |
+|[148](https://leetcode-cn.com/problems/sort-list)|[排序链表](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/148.%20排序链表)|中等|[排序](https://leetcode-cn.com/tag/sort) [链表](https://leetcode-cn.com/tag/linked-list) |
 |[150](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation)|[逆波兰表达式求值](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/150.%20逆波兰表达式求值)|中等|[栈](https://leetcode-cn.com/tag/stack) |
 |[154](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii)|[寻找旋转排序数组中的最小值 II](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/154.%20寻找旋转排序数组中的最小值%20II)|困难|[数组](https://leetcode-cn.com/tag/array) [二分查找](https://leetcode-cn.com/tag/binary-search) |
 |[155](https://leetcode-cn.com/problems/min-stack)|[最小栈](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/155.%20最小栈)|简单|[栈](https://leetcode-cn.com/tag/stack) [设计](https://leetcode-cn.com/tag/design) |
@@ -353,6 +354,8 @@
 |[1417](https://leetcode-cn.com/problems/reformat-the-string)|[重新格式化字符串](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1417.%20重新格式化字符串)|简单|[字符串](https://leetcode-cn.com/tag/string) |
 |[1422](https://leetcode-cn.com/problems/maximum-score-after-splitting-a-string)|[分割字符串的最大得分](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1422.%20分割字符串的最大得分)|简单|[字符串](https://leetcode-cn.com/tag/string) |
 |[1436](https://leetcode-cn.com/problems/destination-city)|[旅行终点站](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1436.%20旅行终点站)|简单|[字符串](https://leetcode-cn.com/tag/string) |
+|[1441](https://leetcode-cn.com/problems/build-an-array-with-stack-operations)|[用栈操作构建数组](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1441.%20用栈操作构建数组)|简单|[栈](https://leetcode-cn.com/tag/stack) |
+|[1442](https://leetcode-cn.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor)|[形成两个异或相等数组的三元组数目](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1442.%20形成两个异或相等数组的三元组数目)|中等|[位运算](https://leetcode-cn.com/tag/bit-manipulation) [数组](https://leetcode-cn.com/tag/array) [数学](https://leetcode-cn.com/tag/math) |
 |[LCP 01](https://leetcode-cn.com/problems/guess-numbers)|[猜数字](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/LCP%2001.%20猜数字)|简单||
 |[面试题 01.06](https://leetcode-cn.com/problems/compress-string-lcci)|[字符串压缩](https://github.com/david990917/My-LeetCode-Solutions/tree/master/程序员面试金典/面试题%2001.06.%20字符串压缩)|简单|[字符串](https://leetcode-cn.com/tag/string) |
 |[面试题 04.02](https://leetcode-cn.com/problems/minimum-height-tree-lcci)|[最小高度树](https://github.com/david990917/My-LeetCode-Solutions/tree/master/程序员面试金典/面试题%2004.02.%20最小高度树)|简单|[树](https://leetcode-cn.com/tag/tree) [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) |
