@@ -33,8 +33,32 @@
 
 ### C++
 
-```cpp
+正常操作就可以啦
 
+```cpp
+class Solution {
+public:
+	ListNode* mergeTwoLists(ListNode* l1, ListNode* l2) {
+		ListNode* head = new ListNode(0);
+		ListNode* curr = head;
+		while (l1 and l2) {
+			ListNode* tmp = NULL;
+			if (l1->val < l2->val) {
+				tmp = new ListNode(l1->val);
+				l1 = l1->next;
+			}
+			else {
+				tmp = new ListNode(l2->val);
+				l2 = l2->next;
+			}
+			curr->next = tmp;
+			curr = curr->next;
+		}
+		if (l1) { curr->next = l1; }
+		if (l2) { curr->next = l2; }
+		return head->next;
+	}
+};
 ```
 
 ---
