@@ -2,8 +2,8 @@
 | [English](README_EN.md) | 简体中文 | [Guidance指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/用户-starky99-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/已解决-413/1644-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/简单-247-green.svg?" alt="">
+    <img src="https://img.shields.io/badge/已解决-414/1644-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/简单-248-green.svg?" alt="">
     <img src="https://img.shields.io/badge/中等-144-orange.svg?" alt="">
     <img src="https://img.shields.io/badge/困难-22-red.svg?" alt="">
 </p>
@@ -11,7 +11,7 @@
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2020-05-12 15:31:31</b>
+    <b>最近一次更新: 2020-05-12 15:58:58</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
@@ -302,6 +302,7 @@
 |[983](https://leetcode-cn.com/problems/minimum-cost-for-tickets)|[最低票价](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/983.%20最低票价)|中等|[动态规划](https://leetcode-cn.com/tag/dynamic-programming) |
 |[989](https://leetcode-cn.com/problems/add-to-array-form-of-integer)|[数组形式的整数加法](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/989.%20数组形式的整数加法)|简单|[数组](https://leetcode-cn.com/tag/array) |
 |[999](https://leetcode-cn.com/problems/available-captures-for-rook)|[可以被一步捕获的棋子数](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/999.%20可以被一步捕获的棋子数)|简单|[数组](https://leetcode-cn.com/tag/array) |
+|[1009](https://leetcode-cn.com/problems/complement-of-base-10-integer)|[十进制整数的反码](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1009.%20十进制整数的反码)|简单|[数学](https://leetcode-cn.com/tag/math) |
 |[1025](https://leetcode-cn.com/problems/divisor-game)|[除数博弈](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1025.%20除数博弈)|简单|[数学](https://leetcode-cn.com/tag/math) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) |
 |[1033](https://leetcode-cn.com/problems/moving-stones-until-consecutive)|[移动石子直到连续](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1033.%20移动石子直到连续)|简单|[脑筋急转弯](https://leetcode-cn.com/tag/brainteaser) |
 |[1160](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters)|[拼写单词](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1160.%20拼写单词)|简单|[数组](https://leetcode-cn.com/tag/array) [哈希表](https://leetcode-cn.com/tag/hash-table) |
