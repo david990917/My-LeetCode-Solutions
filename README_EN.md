@@ -2,16 +2,16 @@
 | English | [简体中文](README.md) | [Guidance指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/User-starky99-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Solved-412/1644-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/Solved-413/1644-blue.svg?" alt="">
     <img src="https://img.shields.io/badge/Easy-247-green.svg?" alt="">
     <img src="https://img.shields.io/badge/Medium-144-orange.svg?" alt="">
-    <img src="https://img.shields.io/badge/Hard-21-red.svg?" alt="">
+    <img src="https://img.shields.io/badge/Hard-22-red.svg?" alt="">
 </p>
 <h1 align="center">My LeetCode Solutions</h1>
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2020-05-12 15:01:25</b>
+    <b>最近一次更新: 2020-05-12 15:31:31</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
@@ -37,6 +37,7 @@
 |[26](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array)|[Remove Duplicates from Sorted Array](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/26.%20删除排序数组中的重复项/README_EN.md)|Easy|[Array](https://leetcode-cn.com/tag/array) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) |
 |[27](https://leetcode-cn.com/problems/remove-element)|[Remove Element](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/27.%20移除元素/README_EN.md)|Easy|[Array](https://leetcode-cn.com/tag/array) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) |
 |[28](https://leetcode-cn.com/problems/implement-strstr)|[Implement strStr()](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/28.%20实现%20strStr()/README_EN.md)|Easy|[Two Pointers](https://leetcode-cn.com/tag/two-pointers) [String](https://leetcode-cn.com/tag/string) |
+|[32](https://leetcode-cn.com/problems/longest-valid-parentheses)|[Longest Valid Parentheses](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/32.%20最长有效括号/README_EN.md)|Hard|[String](https://leetcode-cn.com/tag/string) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) |
 |[33](https://leetcode-cn.com/problems/search-in-rotated-sorted-array)|[Search in Rotated Sorted Array](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/33.%20搜索旋转排序数组/README_EN.md)|Medium|[Array](https://leetcode-cn.com/tag/array) [Binary Search](https://leetcode-cn.com/tag/binary-search) |
 |[35](https://leetcode-cn.com/problems/search-insert-position)|[Search Insert Position](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/35.%20搜索插入位置/README_EN.md)|Easy|[Array](https://leetcode-cn.com/tag/array) [Binary Search](https://leetcode-cn.com/tag/binary-search) |
 |[36](https://leetcode-cn.com/problems/valid-sudoku)|[Valid Sudoku](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/36.%20有效的数独/README_EN.md)|Medium|[Hash Table](https://leetcode-cn.com/tag/hash-table) |
