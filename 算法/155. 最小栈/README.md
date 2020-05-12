@@ -49,10 +49,33 @@ minStack.getMin();   --&gt; 返回 -2.
 
 ### Python
 
-1. 
+1. 只用一个栈的方法
 
 ```python
+class MinStack:
 
+    def __init__(self):
+        self.min=sys.maxsize
+        self.stack=[]
+
+    def push(self, x: int) -> None:
+        self.stack.append(x-self.min)
+        if x<self.min:
+            self.min=x
+            
+    def pop(self) -> None:
+        target=self.stack.pop()
+        if target<0:
+            self.min=self.min-target
+        
+    def top(self) -> int:
+        if self.stack:
+            target=self.stack[-1]
+            if target<0:return self.min
+            return target+self.min
+
+    def getMin(self) -> int:
+        return self.min
 ```
 
 
@@ -62,7 +85,36 @@ minStack.getMin();   --&gt; 返回 -2.
 
 ### C++
 
+使用两个栈来做
+
 ```cpp
+class MinStack {
+    stack<int> x_stack;
+    stack<int> min_stack;
+public:
+    /** initialize your data structure here. */
+    MinStack() {
+        min_stack.push(INT_MAX);
+    }
+    
+    void push(int x) {
+        x_stack.push(x);
+        min_stack.push(min(min_stack.top(),x));
+    }
+    
+    void pop() {
+        x_stack.pop();
+        min_stack.pop();
+    }
+    
+    int top() {
+        return x_stack.top();
+    }
+    
+    int getMin() {
+        return min_stack.top();
+    }
+};
 
 ```
 
