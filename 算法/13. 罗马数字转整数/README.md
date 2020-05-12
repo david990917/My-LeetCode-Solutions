@@ -60,10 +60,22 @@ M             1000</pre>
 
 ### Python
 
-1. 
+1. 通过观察我们发现，只有在遇到特殊情况时，两个字符中左边的字符小于右边的字符，且等于右边的字符代表的数减左边字符代表的数。 比如 CM 等于 `1000 - 100`，XC 等于 `100 - 10`...
+
+   因此，我们将 字符：数值 存在 `Roman2Int` 的哈希表中。然后从左到右遍历每个字符，如果 `s[i] < s[i+1]`，就将结果减去 s[i] 代表的数字；否则，将结果加上 s[i] 代表的数字。
 
 ```python
-
+class Solution:
+    def romanToInt(self, s: str) -> int:
+        hashmap={'I':1,'V':5,'X':10,'L':50,'C':100,'D':500,'M':1000}
+        length=len(s)
+        result=0
+        for i in range(length):
+            if i!=length-1 and hashmap[s[i]]<hashmap[s[i+1]]:
+                result-=hashmap[s[i]]
+            else:
+                result+=hashmap[s[i]]
+        return result
 ```
 
 
