@@ -20,10 +20,32 @@
 
 ### Python
 
-1. 
+1. 回溯法经典题目
 
 ```python
+class Solution:
+    def restoreIpAddresses(self, s: str) -> List[str]:
+        if not s:return []
+        if len(s)<4 or len(s)>12:return []
+        results=[]
 
+        def backTrack(k,tempAddress,s):
+            if k==4 or len(s)==0:
+                if k==4 and len(s)==0:
+                    results.append(tempAddress)
+                return 
+            
+            for i in range(len(s)):
+                if i>2:break
+                if i!=0 and s[0]=='0':break
+                part=s[:i+1]
+                if int(part)<256:
+                    if len(tempAddress)!=0:
+                        part='.'+part
+                    backTrack(k+1,tempAddress+part,s[i+1:])
+
+        backTrack(0,'',s)
+        return results
 ```
 
 
