@@ -69,6 +69,8 @@ class Solution:
 
 ### C++
 
+使用 `que` 和 `vector`
+
 ```cpp
 class Solution {
 public:
