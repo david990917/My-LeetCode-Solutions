@@ -2,8 +2,8 @@
 | English | [简体中文](README.md) | [Guidance指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/User-starky99-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Solved-416/1644-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Easy-250-green.svg?" alt="">
+    <img src="https://img.shields.io/badge/Solved-417/1644-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/Easy-251-green.svg?" alt="">
     <img src="https://img.shields.io/badge/Medium-144-orange.svg?" alt="">
     <img src="https://img.shields.io/badge/Hard-22-red.svg?" alt="">
 </p>
@@ -11,7 +11,7 @@
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2020-05-13 21:48:57</b>
+    <b>最近一次更新: 2020-05-13 21:58:25</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
@@ -182,6 +182,7 @@
 |[378](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix)|[Kth Smallest Element in a Sorted Matrix](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/378.%20有序矩阵中第K小的元素/README_EN.md)|Medium|[Heap](https://leetcode-cn.com/tag/heap) [Binary Search](https://leetcode-cn.com/tag/binary-search) |
 |[383](https://leetcode-cn.com/problems/ransom-note)|[Ransom Note](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/383.%20赎金信/README_EN.md)|Easy|[String](https://leetcode-cn.com/tag/string) |
 |[387](https://leetcode-cn.com/problems/first-unique-character-in-a-string)|[First Unique Character in a String](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/387.%20字符串中的第一个唯一字符/README_EN.md)|Easy|[Hash Table](https://leetcode-cn.com/tag/hash-table) [String](https://leetcode-cn.com/tag/string) |
+|[389](https://leetcode-cn.com/problems/find-the-difference)|[Find the Difference](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/389.%20找不同/README_EN.md)|Easy|[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) [Hash Table](https://leetcode-cn.com/tag/hash-table) |
 |[392](https://leetcode-cn.com/problems/is-subsequence)|[Is Subsequence](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/392.%20判断子序列/README_EN.md)|Easy|[Greedy](https://leetcode-cn.com/tag/greedy) [Binary Search](https://leetcode-cn.com/tag/binary-search) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) |
 |[394](https://leetcode-cn.com/problems/decode-string)|[Decode String](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/394.%20字符串解码/README_EN.md)|Medium|[Stack](https://leetcode-cn.com/tag/stack) [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) |
 |[405](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal)|[Convert a Number to Hexadecimal](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/405.%20数字转换为十六进制数/README_EN.md)|Easy|[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) |

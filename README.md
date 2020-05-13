@@ -2,8 +2,8 @@
 | [English](README_EN.md) | 简体中文 | [Guidance指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/用户-starky99-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/已解决-416/1644-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/简单-250-green.svg?" alt="">
+    <img src="https://img.shields.io/badge/已解决-417/1644-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/简单-251-green.svg?" alt="">
     <img src="https://img.shields.io/badge/中等-144-orange.svg?" alt="">
     <img src="https://img.shields.io/badge/困难-22-red.svg?" alt="">
 </p>
@@ -11,7 +11,7 @@
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2020-05-13 21:48:57</b>
+    <b>最近一次更新: 2020-05-13 21:58:25</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
@@ -182,6 +182,7 @@
 |[378](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix)|[有序矩阵中第K小的元素](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/378.%20有序矩阵中第K小的元素)|中等|[堆](https://leetcode-cn.com/tag/heap) [二分查找](https://leetcode-cn.com/tag/binary-search) |
 |[383](https://leetcode-cn.com/problems/ransom-note)|[赎金信](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/383.%20赎金信)|简单|[字符串](https://leetcode-cn.com/tag/string) |
 |[387](https://leetcode-cn.com/problems/first-unique-character-in-a-string)|[字符串中的第一个唯一字符](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/387.%20字符串中的第一个唯一字符)|简单|[哈希表](https://leetcode-cn.com/tag/hash-table) [字符串](https://leetcode-cn.com/tag/string) |
+|[389](https://leetcode-cn.com/problems/find-the-difference)|[找不同](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/389.%20找不同)|简单|[位运算](https://leetcode-cn.com/tag/bit-manipulation) [哈希表](https://leetcode-cn.com/tag/hash-table) |
 |[392](https://leetcode-cn.com/problems/is-subsequence)|[判断子序列](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/392.%20判断子序列)|简单|[贪心算法](https://leetcode-cn.com/tag/greedy) [二分查找](https://leetcode-cn.com/tag/binary-search) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) |
 |[394](https://leetcode-cn.com/problems/decode-string)|[字符串解码](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/394.%20字符串解码)|中等|[栈](https://leetcode-cn.com/tag/stack) [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) |
 |[405](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal)|[数字转换为十六进制数](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/405.%20数字转换为十六进制数)|简单|[位运算](https://leetcode-cn.com/tag/bit-manipulation) |
