@@ -2,8 +2,8 @@
 | English | [简体中文](README.md) | [Guidance指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/User-starky99-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Solved-414/1644-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Easy-248-green.svg?" alt="">
+    <img src="https://img.shields.io/badge/Solved-415/1644-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/Easy-249-green.svg?" alt="">
     <img src="https://img.shields.io/badge/Medium-144-orange.svg?" alt="">
     <img src="https://img.shields.io/badge/Hard-22-red.svg?" alt="">
 </p>
@@ -11,7 +11,7 @@
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2020-05-12 15:58:58</b>
+    <b>最近一次更新: 2020-05-13 20:29:00</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
@@ -318,6 +318,7 @@
 |[1139](https://leetcode-cn.com/problems/largest-1-bordered-square)|[Largest 1-Bordered Square](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1139.%20最大的以%201%20为边界的正方形/README_EN.md)|Medium|[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) |
 |[1313](https://leetcode-cn.com/problems/decompress-run-length-encoded-list)|[Decompress Run-Length Encoded List](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1313.%20解压缩编码列表/README_EN.md)|Easy|[Array](https://leetcode-cn.com/tag/array) |
 |[1314](https://leetcode-cn.com/problems/matrix-block-sum)|[Matrix Block Sum](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1314.%20矩阵区域和/README_EN.md)|Medium|[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) |
+|[1360](https://leetcode-cn.com/problems/number-of-days-between-two-dates)|[Number of Days Between Two Dates](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1360.%20日期之间隔几天/README_EN.md)|Easy||
 |[1179](https://leetcode-cn.com/problems/reformat-department-table)|[Reformat Department Table](https://github.com/david990917/My-LeetCode-Solutions/tree/master/数据库/1179.%20重新格式化部门表/README_EN.md)|Easy||
 |[1405](https://leetcode-cn.com/problems/longest-happy-string)|[Longest Happy String](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1405.%20最长快乐字符串/README_EN.md)|Medium|[Greedy](https://leetcode-cn.com/tag/greedy) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) |
 |[1217](https://leetcode-cn.com/problems/play-with-chips)|[Play with Chips](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1217.%20玩筹码/README_EN.md)|Easy|[Greedy](https://leetcode-cn.com/tag/greedy) [Array](https://leetcode-cn.com/tag/array) [Math](https://leetcode-cn.com/tag/math) |

@@ -38,10 +38,28 @@
 
 ### Python
 
-1. 
+1. 简单使用队列
 
 ```python
+class Solution:
+    def levelOrder(self, root: TreeNode) -> List[List[int]]:
+        if not root:return []
 
+        result=[]
+        from collections import deque
+        deq=deque()
+        deq.append(root)
+
+        while deq:
+            length=len(deq)
+            tmp=[]
+            for _ in range(length):
+                curr=deq.popleft()
+                tmp.append(curr.val)
+                if curr.left:deq.append(curr.left)
+                if curr.right:deq.append(curr.right)
+            result.append(tmp)
+        return result
 ```
 
 
@@ -52,7 +70,27 @@
 ### C++
 
 ```cpp
+class Solution {
+public:
+	vector<vector<int>> levelOrder(TreeNode* root) {
+		vector<vector<int>> result;
+		if (!root) { return result; }
 
+		queue<TreeNode*> que;
+		que.push(root);
+		while (!que.empty()) {
+			int currentLevelSize = que.size();
+			result.push_back(vector<int>());
+			for (int i = 1; i <= currentLevelSize; i++) {
+				auto node = que.front(); que.pop();
+				result.back().push_back(node->val);
+				if (node->left) { que.push(node->left); }
+				if (node->right) { que.push(node->right); }
+			}
+		}
+		return result;
+	}
+};
 ```
 
 ---
