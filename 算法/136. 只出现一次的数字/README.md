@@ -30,10 +30,15 @@
 
 ### Python
 
-1. 
+1. 位运算直接操作
 
 ```python
-
+class Solution:
+    def singleNumber(self, nums: List[int]) -> int:
+        result=0
+        for num in nums:
+            result^=num
+        return result
 ```
 
 
