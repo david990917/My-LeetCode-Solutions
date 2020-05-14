@@ -2,8 +2,8 @@
 | [English](README_EN.md) | 简体中文 | [Guidance指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/用户-starky99-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/已解决-420/1644-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/简单-254-green.svg?" alt="">
+    <img src="https://img.shields.io/badge/已解决-421/1644-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/简单-255-green.svg?" alt="">
     <img src="https://img.shields.io/badge/中等-144-orange.svg?" alt="">
     <img src="https://img.shields.io/badge/困难-22-red.svg?" alt="">
 </p>
@@ -11,7 +11,7 @@
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2020-05-14 15:55:39</b>
+    <b>最近一次更新: 2020-05-14 16:13:08</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
@@ -430,6 +430,7 @@
 |[面试题 17.16](https://leetcode-cn.com/problems/the-masseuse-lcci)|[按摩师](https://github.com/david990917/My-LeetCode-Solutions/tree/master/程序员面试金典/面试题%2017.16.%20按摩师)|简单|[动态规划](https://leetcode-cn.com/tag/dynamic-programming) |
 |[面试题 17.01](https://leetcode-cn.com/problems/add-without-plus-lcci)|[不用加号的加法](https://github.com/david990917/My-LeetCode-Solutions/tree/master/程序员面试金典/面试题%2017.01.%20不用加号的加法)|简单|[位运算](https://leetcode-cn.com/tag/bit-manipulation) |
 |[面试题 17.04](https://leetcode-cn.com/problems/missing-number-lcci)|[消失的数字](https://github.com/david990917/My-LeetCode-Solutions/tree/master/程序员面试金典/面试题%2017.04.%20消失的数字)|简单|[位运算](https://leetcode-cn.com/tag/bit-manipulation) [数组](https://leetcode-cn.com/tag/array) [数学](https://leetcode-cn.com/tag/math) |
+|[面试题 17.10](https://leetcode-cn.com/problems/find-majority-element-lcci)|[主要元素](https://github.com/david990917/My-LeetCode-Solutions/tree/master/程序员面试金典/面试题%2017.10.%20主要元素)|简单|[位运算](https://leetcode-cn.com/tag/bit-manipulation) [数组](https://leetcode-cn.com/tag/array) [分治算法](https://leetcode-cn.com/tag/divide-and-conquer) |
 |[LCP 06](https://leetcode-cn.com/problems/na-ying-bi)|[拿硬币](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/LCP%2006.%20拿硬币)|简单||
 |[LCP 08](https://leetcode-cn.com/problems/ju-qing-hong-fa-shi-jian)|[剧情触发时间](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/LCP%2008.%20剧情触发时间)|中等||
 |[LCP 07](https://leetcode-cn.com/problems/chuan-di-xin-xi)|[传递信息](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/LCP%2007.%20传递信息)|简单||
