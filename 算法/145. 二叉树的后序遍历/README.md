@@ -25,16 +25,63 @@
 
 ### Python
 
-1. 
+1. 递归 - 后序遍历
 
 ```python
+class Solution:
+    def postorderTraversal(self, root: TreeNode) -> List[int]:
+        result=[]
+        def postOrder(root):
+            if not root:return 
+            if root.left:postOrder(root.left)
+            if root.right:postOrder(root.right)
+            result.append(root.val)
+        postOrder(root)
+        return result
+```
 
+2. 后序遍历【左右中】 - 类比前序遍历【中左右】-> 【中右左】 --反向--> 【左中右】
+
+
+```python
+class Solution:
+    def postorderTraversal(self, root: TreeNode) -> List[int]:
+        if not root:return []
+
+        self.result=[]
+        stack=[root]
+        while stack:
+            node=stack.pop()
+            self.result.append(node.val)
+            if node.left:stack.append(node.left)
+            if node.right:stack.append(node.right)
+        return self.result[::-1]
+```
+
+3. 颜色标记法
+
+```python
+class Solution:
+    def postorderTraversal(self, root: TreeNode) -> List[int]:
+        if not root:return []
+
+        self.result=[]
+        stack=[(root,0)]
+        while stack:
+            node,times=stack.pop()
+            if not node:continue
+            if times==0:
+                stack.append((node,1))
+                stack.append((node.left,0))
+            elif times==1:
+                stack.append((node,2))
+                stack.append((node.right,0))
+            else:
+                self.result.append(node.val)
+        return self.result
 ```
 
 
-```python
-
-```
 
 ### C++
 
