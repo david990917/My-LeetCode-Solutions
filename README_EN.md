@@ -2,8 +2,8 @@
 | English | [简体中文](README.md) | [Guidance指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/User-starky99-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Solved-419/1644-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Easy-253-green.svg?" alt="">
+    <img src="https://img.shields.io/badge/Solved-420/1644-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/Easy-254-green.svg?" alt="">
     <img src="https://img.shields.io/badge/Medium-144-orange.svg?" alt="">
     <img src="https://img.shields.io/badge/Hard-22-red.svg?" alt="">
 </p>
@@ -11,7 +11,7 @@
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2020-05-14 15:43:03</b>
+    <b>最近一次更新: 2020-05-14 15:55:39</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
@@ -337,6 +337,7 @@
 |[1295](https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits)|[Find Numbers with Even Number of Digits](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1295.%20统计位数为偶数的数字/README_EN.md)|Easy|[Array](https://leetcode-cn.com/tag/array) |
 |[1342](https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero)|[Number of Steps to Reduce a Number to Zero](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1342.%20将数字变成%200%20的操作次数/README_EN.md)|Easy|[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) |
 |[1323](https://leetcode-cn.com/problems/maximum-69-number)|[Maximum 69 Number](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1323.%206%20和%209%20组成的最大数字/README_EN.md)|Easy|[Math](https://leetcode-cn.com/tag/math) |
+|[1356](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits)|[Sort Integers by The Number of 1 Bits](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1356.%20根据数字二进制下%201%20的数目排序/README_EN.md)|Easy|[Sort](https://leetcode-cn.com/tag/sort) [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) |
 |[1370](https://leetcode-cn.com/problems/increasing-decreasing-string)|[Increasing Decreasing String](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1370.%20上升下降字符串/README_EN.md)|Easy|[Sort](https://leetcode-cn.com/tag/sort) [String](https://leetcode-cn.com/tag/string) |
 |[1371](https://leetcode-cn.com/problems/find-the-longest-substring-containing-vowels-in-even-counts)|[Find the Longest Substring Containing Vowels in Even Counts](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1371.%20每个元音包含偶数次的最长子字符串/README_EN.md)|Medium|[String](https://leetcode-cn.com/tag/string) |
 |[1351](https://leetcode-cn.com/problems/count-negative-numbers-in-a-sorted-matrix)|[Count Negative Numbers in a Sorted Matrix](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1351.%20统计有序矩阵中的负数/README_EN.md)|Easy|[Array](https://leetcode-cn.com/tag/array) [Binary Search](https://leetcode-cn.com/tag/binary-search) |
