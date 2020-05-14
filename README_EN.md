@@ -2,8 +2,8 @@
 | English | [简体中文](README.md) | [Guidance指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/User-starky99-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Solved-418/1644-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Easy-252-green.svg?" alt="">
+    <img src="https://img.shields.io/badge/Solved-419/1644-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/Easy-253-green.svg?" alt="">
     <img src="https://img.shields.io/badge/Medium-144-orange.svg?" alt="">
     <img src="https://img.shields.io/badge/Hard-22-red.svg?" alt="">
 </p>
@@ -11,7 +11,7 @@
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2020-05-13 22:11:00</b>
+    <b>最近一次更新: 2020-05-14 15:43:03</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
@@ -185,6 +185,7 @@
 |[389](https://leetcode-cn.com/problems/find-the-difference)|[Find the Difference](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/389.%20找不同/README_EN.md)|Easy|[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) [Hash Table](https://leetcode-cn.com/tag/hash-table) |
 |[392](https://leetcode-cn.com/problems/is-subsequence)|[Is Subsequence](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/392.%20判断子序列/README_EN.md)|Easy|[Greedy](https://leetcode-cn.com/tag/greedy) [Binary Search](https://leetcode-cn.com/tag/binary-search) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) |
 |[394](https://leetcode-cn.com/problems/decode-string)|[Decode String](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/394.%20字符串解码/README_EN.md)|Medium|[Stack](https://leetcode-cn.com/tag/stack) [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) |
+|[401](https://leetcode-cn.com/problems/binary-watch)|[Binary Watch](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/401.%20二进制手表/README_EN.md)|Easy|[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) [Backtracking](https://leetcode-cn.com/tag/backtracking) |
 |[405](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal)|[Convert a Number to Hexadecimal](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/405.%20数字转换为十六进制数/README_EN.md)|Easy|[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) |
 |[406](https://leetcode-cn.com/problems/queue-reconstruction-by-height)|[Queue Reconstruction by Height](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/406.%20根据身高重建队列/README_EN.md)|Medium|[Greedy](https://leetcode-cn.com/tag/greedy) |
 |[409](https://leetcode-cn.com/problems/longest-palindrome)|[Longest Palindrome](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/409.%20最长回文串/README_EN.md)|Easy|[Hash Table](https://leetcode-cn.com/tag/hash-table) |

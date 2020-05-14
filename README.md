@@ -2,8 +2,8 @@
 | [English](README_EN.md) | 简体中文 | [Guidance指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/用户-starky99-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/已解决-418/1644-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/简单-252-green.svg?" alt="">
+    <img src="https://img.shields.io/badge/已解决-419/1644-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/简单-253-green.svg?" alt="">
     <img src="https://img.shields.io/badge/中等-144-orange.svg?" alt="">
     <img src="https://img.shields.io/badge/困难-22-red.svg?" alt="">
 </p>
@@ -11,7 +11,7 @@
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2020-05-13 22:11:00</b>
+    <b>最近一次更新: 2020-05-14 15:43:03</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
@@ -185,6 +185,7 @@
 |[389](https://leetcode-cn.com/problems/find-the-difference)|[找不同](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/389.%20找不同)|简单|[位运算](https://leetcode-cn.com/tag/bit-manipulation) [哈希表](https://leetcode-cn.com/tag/hash-table) |
 |[392](https://leetcode-cn.com/problems/is-subsequence)|[判断子序列](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/392.%20判断子序列)|简单|[贪心算法](https://leetcode-cn.com/tag/greedy) [二分查找](https://leetcode-cn.com/tag/binary-search) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) |
 |[394](https://leetcode-cn.com/problems/decode-string)|[字符串解码](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/394.%20字符串解码)|中等|[栈](https://leetcode-cn.com/tag/stack) [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) |
+|[401](https://leetcode-cn.com/problems/binary-watch)|[二进制手表](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/401.%20二进制手表)|简单|[位运算](https://leetcode-cn.com/tag/bit-manipulation) [回溯算法](https://leetcode-cn.com/tag/backtracking) |
 |[405](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal)|[数字转换为十六进制数](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/405.%20数字转换为十六进制数)|简单|[位运算](https://leetcode-cn.com/tag/bit-manipulation) |
 |[406](https://leetcode-cn.com/problems/queue-reconstruction-by-height)|[根据身高重建队列](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/406.%20根据身高重建队列)|中等|[贪心算法](https://leetcode-cn.com/tag/greedy) |
 |[409](https://leetcode-cn.com/problems/longest-palindrome)|[最长回文串](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/409.%20最长回文串)|简单|[哈希表](https://leetcode-cn.com/tag/hash-table) |
