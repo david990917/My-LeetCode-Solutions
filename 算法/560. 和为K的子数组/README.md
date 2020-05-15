@@ -29,10 +29,24 @@
 
 ### Python
 
-1. 
+1. 利用前缀和 + hashtable
+
+   转换 `prefixSum[j]-prefixSum[i]=k` -> `prefixSum[i]=prefixSum[j]-k`
 
 ```python
-
+class Solution:
+    def subarraySum(self, nums: List[int], k: int) -> int:
+        length=len(nums)
+        sumValue,count=0,0
+        hashmap={0:1}
+        
+        for num in nums:
+            sumValue+=num
+            if sumValue-k in hashmap:count+=hashmap[sumValue-k]
+            if sumValue in hashmap:hashmap[sumValue]+=1
+            else:hashmap[sumValue]:hashmap[sumValue]=1
+        
+        return count
 ```
 
 
@@ -52,4 +66,4 @@
 
 # 整理与总结
 
-1. 
+1. 需要注意 `hashmap` 初始化的时候 `{0:1}`
