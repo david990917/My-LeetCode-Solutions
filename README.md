@@ -2,8 +2,8 @@
 | [English](README_EN.md) | 简体中文 | [Guidance指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/用户-starky99-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/已解决-423/1644-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/简单-257-green.svg?" alt="">
+    <img src="https://img.shields.io/badge/已解决-424/1644-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/简单-258-green.svg?" alt="">
     <img src="https://img.shields.io/badge/中等-144-orange.svg?" alt="">
     <img src="https://img.shields.io/badge/困难-22-red.svg?" alt="">
 </p>
@@ -11,7 +11,7 @@
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2020-05-15 16:47:51</b>
+    <b>最近一次更新: 2020-05-15 16:53:58</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
@@ -209,6 +209,7 @@
 |[463](https://leetcode-cn.com/problems/island-perimeter)|[岛屿的周长](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/463.%20岛屿的周长)|简单|[哈希表](https://leetcode-cn.com/tag/hash-table) |
 |[466](https://leetcode-cn.com/problems/count-the-repetitions)|[统计重复个数](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/466.%20统计重复个数)|困难|[动态规划](https://leetcode-cn.com/tag/dynamic-programming) |
 |[468](https://leetcode-cn.com/problems/validate-ip-address)|[验证IP地址](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/468.%20验证IP地址)|中等|[字符串](https://leetcode-cn.com/tag/string) |
+|[476](https://leetcode-cn.com/problems/number-complement)|[数字的补数](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/476.%20数字的补数)|简单|[位运算](https://leetcode-cn.com/tag/bit-manipulation) |
 |[485](https://leetcode-cn.com/problems/max-consecutive-ones)|[最大连续1的个数](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/485.%20最大连续1的个数)|简单|[数组](https://leetcode-cn.com/tag/array) |
 |[494](https://leetcode-cn.com/problems/target-sum)|[目标和](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/494.%20目标和)|中等|[深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) |
 |[498](https://leetcode-cn.com/problems/diagonal-traverse)|[对角线遍历](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/498.%20对角线遍历)|中等||

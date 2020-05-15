@@ -2,8 +2,8 @@
 | English | [简体中文](README.md) | [Guidance指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/User-starky99-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Solved-423/1644-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Easy-257-green.svg?" alt="">
+    <img src="https://img.shields.io/badge/Solved-424/1644-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/Easy-258-green.svg?" alt="">
     <img src="https://img.shields.io/badge/Medium-144-orange.svg?" alt="">
     <img src="https://img.shields.io/badge/Hard-22-red.svg?" alt="">
 </p>
@@ -11,7 +11,7 @@
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2020-05-15 16:47:51</b>
+    <b>最近一次更新: 2020-05-15 16:53:58</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
@@ -209,6 +209,7 @@
 |[463](https://leetcode-cn.com/problems/island-perimeter)|[Island Perimeter](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/463.%20岛屿的周长/README_EN.md)|Easy|[Hash Table](https://leetcode-cn.com/tag/hash-table) |
 |[466](https://leetcode-cn.com/problems/count-the-repetitions)|[Count The Repetitions](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/466.%20统计重复个数/README_EN.md)|Hard|[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) |
 |[468](https://leetcode-cn.com/problems/validate-ip-address)|[Validate IP Address](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/468.%20验证IP地址/README_EN.md)|Medium|[String](https://leetcode-cn.com/tag/string) |
+|[476](https://leetcode-cn.com/problems/number-complement)|[Number Complement](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/476.%20数字的补数/README_EN.md)|Easy|[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) |
 |[485](https://leetcode-cn.com/problems/max-consecutive-ones)|[Max Consecutive Ones](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/485.%20最大连续1的个数/README_EN.md)|Easy|[Array](https://leetcode-cn.com/tag/array) |
 |[494](https://leetcode-cn.com/problems/target-sum)|[Target Sum](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/494.%20目标和/README_EN.md)|Medium|[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) |
 |[498](https://leetcode-cn.com/problems/diagonal-traverse)|[Diagonal Traverse](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/498.%20对角线遍历/README_EN.md)|Medium||
