@@ -2,8 +2,8 @@
 | English | [简体中文](README.md) | [Guidance指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/User-starky99-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Solved-422/1644-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Easy-256-green.svg?" alt="">
+    <img src="https://img.shields.io/badge/Solved-423/1644-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/Easy-257-green.svg?" alt="">
     <img src="https://img.shields.io/badge/Medium-144-orange.svg?" alt="">
     <img src="https://img.shields.io/badge/Hard-22-red.svg?" alt="">
 </p>
@@ -11,7 +11,7 @@
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2020-05-15 16:28:19</b>
+    <b>最近一次更新: 2020-05-15 16:47:51</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
@@ -370,6 +370,7 @@
 |[面试题 04.02](https://leetcode-cn.com/problems/minimum-height-tree-lcci)|[Minimum Height Tree LCCI](https://github.com/david990917/My-LeetCode-Solutions/tree/master/程序员面试金典/面试题%2004.02.%20最小高度树/README_EN.md)|Easy|[Tree](https://leetcode-cn.com/tag/tree) [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) |
 |[面试题 05.01](https://leetcode-cn.com/problems/insert-into-bits-lcci)|[Insert Into Bits LCCI](https://github.com/david990917/My-LeetCode-Solutions/tree/master/程序员面试金典/面试题%2005.01.%20插入/README_EN.md)|Easy|[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) |
 |[面试题 05.06](https://leetcode-cn.com/problems/convert-integer-lcci)|[Convert Integer LCCI](https://github.com/david990917/My-LeetCode-Solutions/tree/master/程序员面试金典/面试题%2005.06.%20整数转换/README_EN.md)|Easy|[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) |
+|[面试题 05.07](https://leetcode-cn.com/problems/exchange-lcci)|[Exchange LCCI](https://github.com/david990917/My-LeetCode-Solutions/tree/master/程序员面试金典/面试题%2005.07.%20配对交换/README_EN.md)|Easy|[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) |
 |[面试题 01.07](https://leetcode-cn.com/problems/rotate-matrix-lcci)|[Rotate Matrix LCCI](https://github.com/david990917/My-LeetCode-Solutions/tree/master/程序员面试金典/面试题%2001.07.%20旋转矩阵/README_EN.md)|Medium|[Array](https://leetcode-cn.com/tag/array) |
 |[面试题 02.03](https://leetcode-cn.com/problems/delete-middle-node-lcci)|[Delete Middle Node LCCI](https://github.com/david990917/My-LeetCode-Solutions/tree/master/程序员面试金典/面试题%2002.03.%20删除中间节点/README_EN.md)|Easy|[Linked List](https://leetcode-cn.com/tag/linked-list) |
 |[面试题 08.11](https://leetcode-cn.com/problems/coin-lcci)|[Coin LCCI](https://github.com/david990917/My-LeetCode-Solutions/tree/master/程序员面试金典/面试题%2008.11.%20硬币/README_EN.md)|Medium|[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) |
