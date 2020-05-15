@@ -35,10 +35,33 @@
 
 ### Python
 
-1. 
+1. 容易的-只用操作最中心的元素就可以啦
 
 ```python
+class Solution:
+    def findMode(self, root: TreeNode) -> List[int]:
+        self.preVal,self.count,self.maxCount,self.result=None,0,0,[]
+        def inorder(root):
+            if not root:return
+            inorder(root.left)
+            if isinstance(self.preVal,int):
+                if root.val==self.preVal:self.count+=1
+                else:self.count=1
+                if self.count==self.maxCount:
+                    self.result.append(root.val)
+                elif self.count>self.maxCount:
+                    self.maxCount=self.count
+                    self.result=[root.val]
+                
+            else:
+                self.count=1
+                self.maxCount=1
+                self.result=[root.val]
+            self.preVal=root.val
+            inorder(root.right)
 
+        inorder(root)
+        return self.result
 ```
 
 
