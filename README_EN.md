@@ -2,8 +2,8 @@
 | English | [简体中文](README.md) | [Guidance指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/User-starky99-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Solved-421/1644-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Easy-255-green.svg?" alt="">
+    <img src="https://img.shields.io/badge/Solved-422/1644-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/Easy-256-green.svg?" alt="">
     <img src="https://img.shields.io/badge/Medium-144-orange.svg?" alt="">
     <img src="https://img.shields.io/badge/Hard-22-red.svg?" alt="">
 </p>
@@ -11,7 +11,7 @@
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2020-05-15 16:06:56</b>
+    <b>最近一次更新: 2020-05-15 16:28:19</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
@@ -391,6 +391,7 @@
 |[面试题28](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof)|[对称的二叉树  LCOF](https://github.com/david990917/My-LeetCode-Solutions/tree/master/剑指OFFER/面试题28.%20对称的二叉树/README_EN.md)|Easy|[Tree](https://leetcode-cn.com/tag/tree) |
 |[面试题20](https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof)|[表示数值的字符串 LCOF](https://github.com/david990917/My-LeetCode-Solutions/tree/master/剑指OFFER/面试题20.%20表示数值的字符串/README_EN.md)|Medium|[Math](https://leetcode-cn.com/tag/math) |
 |[面试题21](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof)|[调整数组顺序使奇数位于偶数前面 LCOF](https://github.com/david990917/My-LeetCode-Solutions/tree/master/剑指OFFER/面试题21.%20调整数组顺序使奇数位于偶数前面/README_EN.md)|Easy||
+|[面试题15](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof)|[二进制中1的个数 LCOF](https://github.com/david990917/My-LeetCode-Solutions/tree/master/剑指OFFER/面试题15.%20二进制中1的个数/README_EN.md)|Easy|[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) |
 |[面试题29](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof)|[顺时针打印矩阵  LCOF](https://github.com/david990917/My-LeetCode-Solutions/tree/master/剑指OFFER/面试题29.%20顺时针打印矩阵/README_EN.md)|Easy|[Array](https://leetcode-cn.com/tag/array) |
 |[面试题22](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof)|[链表中倒数第k个节点 LCOF](https://github.com/david990917/My-LeetCode-Solutions/tree/master/剑指OFFER/面试题22.%20链表中倒数第k个节点/README_EN.md)|Easy|[Linked List](https://leetcode-cn.com/tag/linked-list) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) |
 |[面试题16](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof)|[数值的整数次方 LCOF](https://github.com/david990917/My-LeetCode-Solutions/tree/master/剑指OFFER/面试题16.%20数值的整数次方/README_EN.md)|Medium|[Recursion](https://leetcode-cn.com/tag/recursion) |
