@@ -36,15 +36,38 @@
 
 ### Python
 
-1. 
+1. 正常思路：
+
+   找到最小的值，然后找到之后的最大值（最大利润）。
+
+   怎么判断？就是使用 if 条件语句的先后来判断
 
 ```python
+class Solution:
+    def maxProfit(self, prices: List[int]) -> int:
+        if not prices:return 0
 
+        minPrice=float('inf')
+        maxProfit=0
+
+        for price in prices:
+            if price<minPrice:minPrice=price
+            elif maxProfit<price-minPrice:maxProfit=price-minPrice
+        return maxProfit
 ```
 
+2. 动态规划
+
 
 ```python
-
+class Solution:
+    def maxProfit(self, prices: List[int]) -> int:
+        if not prices:return 0
+        minPrice,maxProfit=prices[0],0
+        for i in range(1,len(prices)):
+            minPrice=min(minPrice,prices[i])
+            maxProfit=max(maxProfit,prices[i]-minPrice)
+        return maxProfit
 ```
 
 ### C++
