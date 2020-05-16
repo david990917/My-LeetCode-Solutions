@@ -2,16 +2,16 @@
 | English | [简体中文](README.md) | [Guidance指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/User-starky99-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Solved-427/1645-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/Solved-428/1645-blue.svg?" alt="">
     <img src="https://img.shields.io/badge/Easy-259-green.svg?" alt="">
     <img src="https://img.shields.io/badge/Medium-145-orange.svg?" alt="">
-    <img src="https://img.shields.io/badge/Hard-23-red.svg?" alt="">
+    <img src="https://img.shields.io/badge/Hard-24-red.svg?" alt="">
 </p>
 <h1 align="center">My LeetCode Solutions</h1>
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2020-05-16 16:02:27</b>
+    <b>最近一次更新: 2020-05-16 16:43:51</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
@@ -34,6 +34,7 @@
 |[21](https://leetcode-cn.com/problems/merge-two-sorted-lists)|[Merge Two Sorted Lists](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/21.%20合并两个有序链表/README_EN.md)|Easy|[Linked List](https://leetcode-cn.com/tag/linked-list) |
 |[22](https://leetcode-cn.com/problems/generate-parentheses)|[Generate Parentheses](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/22.%20括号生成/README_EN.md)|Medium|[String](https://leetcode-cn.com/tag/string) [Backtracking](https://leetcode-cn.com/tag/backtracking) |
 |[23](https://leetcode-cn.com/problems/merge-k-sorted-lists)|[Merge k Sorted Lists](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/23.%20合并K个排序链表/README_EN.md)|Hard|[Heap](https://leetcode-cn.com/tag/heap) [Linked List](https://leetcode-cn.com/tag/linked-list) [Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer) |
+|[25](https://leetcode-cn.com/problems/reverse-nodes-in-k-group)|[Reverse Nodes in k-Group](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/25.%20K%20个一组翻转链表/README_EN.md)|Hard|[Linked List](https://leetcode-cn.com/tag/linked-list) |
 |[26](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array)|[Remove Duplicates from Sorted Array](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/26.%20删除排序数组中的重复项/README_EN.md)|Easy|[Array](https://leetcode-cn.com/tag/array) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) |
 |[27](https://leetcode-cn.com/problems/remove-element)|[Remove Element](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/27.%20移除元素/README_EN.md)|Easy|[Array](https://leetcode-cn.com/tag/array) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) |
 |[28](https://leetcode-cn.com/problems/implement-strstr)|[Implement strStr()](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/28.%20实现%20strStr()/README_EN.md)|Easy|[Two Pointers](https://leetcode-cn.com/tag/two-pointers) [String](https://leetcode-cn.com/tag/string) |

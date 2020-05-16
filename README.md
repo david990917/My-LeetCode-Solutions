@@ -2,16 +2,16 @@
 | [English](README_EN.md) | 简体中文 | [Guidance指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/用户-starky99-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/已解决-427/1645-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/已解决-428/1645-blue.svg?" alt="">
     <img src="https://img.shields.io/badge/简单-259-green.svg?" alt="">
     <img src="https://img.shields.io/badge/中等-145-orange.svg?" alt="">
-    <img src="https://img.shields.io/badge/困难-23-red.svg?" alt="">
+    <img src="https://img.shields.io/badge/困难-24-red.svg?" alt="">
 </p>
 <h1 align="center">My LeetCode Solutions</h1>
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2020-05-16 16:02:27</b>
+    <b>最近一次更新: 2020-05-16 16:43:51</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
@@ -34,6 +34,7 @@
 |[21](https://leetcode-cn.com/problems/merge-two-sorted-lists)|[合并两个有序链表](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/21.%20合并两个有序链表)|简单|[链表](https://leetcode-cn.com/tag/linked-list) |
 |[22](https://leetcode-cn.com/problems/generate-parentheses)|[括号生成](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/22.%20括号生成)|中等|[字符串](https://leetcode-cn.com/tag/string) [回溯算法](https://leetcode-cn.com/tag/backtracking) |
 |[23](https://leetcode-cn.com/problems/merge-k-sorted-lists)|[合并K个排序链表](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/23.%20合并K个排序链表)|困难|[堆](https://leetcode-cn.com/tag/heap) [链表](https://leetcode-cn.com/tag/linked-list) [分治算法](https://leetcode-cn.com/tag/divide-and-conquer) |
+|[25](https://leetcode-cn.com/problems/reverse-nodes-in-k-group)|[K 个一组翻转链表](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/25.%20K%20个一组翻转链表)|困难|[链表](https://leetcode-cn.com/tag/linked-list) |
 |[26](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array)|[删除排序数组中的重复项](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/26.%20删除排序数组中的重复项)|简单|[数组](https://leetcode-cn.com/tag/array) [双指针](https://leetcode-cn.com/tag/two-pointers) |
 |[27](https://leetcode-cn.com/problems/remove-element)|[移除元素](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/27.%20移除元素)|简单|[数组](https://leetcode-cn.com/tag/array) [双指针](https://leetcode-cn.com/tag/two-pointers) |
 |[28](https://leetcode-cn.com/problems/implement-strstr)|[实现 strStr()](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/28.%20实现%20strStr())|简单|[双指针](https://leetcode-cn.com/tag/two-pointers) [字符串](https://leetcode-cn.com/tag/string) |
