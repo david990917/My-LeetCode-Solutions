@@ -2,8 +2,8 @@
 | English | [简体中文](README.md) | [Guidance指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/User-starky99-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Solved-424/1644-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Easy-258-green.svg?" alt="">
+    <img src="https://img.shields.io/badge/Solved-425/1645-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/Easy-259-green.svg?" alt="">
     <img src="https://img.shields.io/badge/Medium-144-orange.svg?" alt="">
     <img src="https://img.shields.io/badge/Hard-22-red.svg?" alt="">
 </p>
@@ -11,7 +11,7 @@
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2020-05-15 16:53:58</b>
+    <b>最近一次更新: 2020-05-16 15:11:51</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
@@ -408,6 +408,7 @@
 |[面试题36](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof)|[二叉搜索树与双向链表  LCOF](https://github.com/david990917/My-LeetCode-Solutions/tree/master/剑指OFFER/面试题36.%20二叉搜索树与双向链表/README_EN.md)|Medium|[Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer) |
 |[面试题31](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof)|[栈的压入、弹出序列 LCOF](https://github.com/david990917/My-LeetCode-Solutions/tree/master/剑指OFFER/面试题31.%20栈的压入、弹出序列/README_EN.md)|Medium||
 |[面试题38](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof)|[字符串的排列  LCOF](https://github.com/david990917/My-LeetCode-Solutions/tree/master/剑指OFFER/面试题38.%20字符串的排列/README_EN.md)|Medium|[Backtracking](https://leetcode-cn.com/tag/backtracking) |
+|[面试题39](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof)|[数组中出现次数超过一半的数字  LCOF](https://github.com/david990917/My-LeetCode-Solutions/tree/master/剑指OFFER/面试题39.%20数组中出现次数超过一半的数字/README_EN.md)|Easy|[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) [Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer) |
 |[面试题32 - I](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof)|[从上到下打印二叉树 LCOF](https://github.com/david990917/My-LeetCode-Solutions/tree/master/剑指OFFER/面试题32%20-%20I.%20从上到下打印二叉树/README_EN.md)|Medium|[Tree](https://leetcode-cn.com/tag/tree) [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) |
 |[面试题32 - II](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof)|[从上到下打印二叉树 II LCOF](https://github.com/david990917/My-LeetCode-Solutions/tree/master/剑指OFFER/面试题32%20-%20II.%20从上到下打印二叉树%20II/README_EN.md)|Easy|[Tree](https://leetcode-cn.com/tag/tree) [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) |
 |[面试题32 - III](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof)|[从上到下打印二叉树 III LCOF](https://github.com/david990917/My-LeetCode-Solutions/tree/master/剑指OFFER/面试题32%20-%20III.%20从上到下打印二叉树%20III/README_EN.md)|Medium|[Tree](https://leetcode-cn.com/tag/tree) [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) |
