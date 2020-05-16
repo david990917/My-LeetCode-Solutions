@@ -2,16 +2,16 @@
 | [English](README_EN.md) | 简体中文 | [Guidance指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/用户-starky99-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/已解决-426/1645-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/已解决-427/1645-blue.svg?" alt="">
     <img src="https://img.shields.io/badge/简单-259-green.svg?" alt="">
     <img src="https://img.shields.io/badge/中等-145-orange.svg?" alt="">
-    <img src="https://img.shields.io/badge/困难-22-red.svg?" alt="">
+    <img src="https://img.shields.io/badge/困难-23-red.svg?" alt="">
 </p>
 <h1 align="center">My LeetCode Solutions</h1>
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2020-05-16 15:52:53</b>
+    <b>最近一次更新: 2020-05-16 16:02:27</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
@@ -146,6 +146,7 @@
 |[230](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst)|[二叉搜索树中第K小的元素](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/230.%20二叉搜索树中第K小的元素)|中等|[树](https://leetcode-cn.com/tag/tree) [二分查找](https://leetcode-cn.com/tag/binary-search) |
 |[231](https://leetcode-cn.com/problems/power-of-two)|[2的幂](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/231.%202的幂)|简单|[位运算](https://leetcode-cn.com/tag/bit-manipulation) [数学](https://leetcode-cn.com/tag/math) |
 |[232](https://leetcode-cn.com/problems/implement-queue-using-stacks)|[用栈实现队列](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/232.%20用栈实现队列)|简单|[栈](https://leetcode-cn.com/tag/stack) [设计](https://leetcode-cn.com/tag/design) |
+|[233](https://leetcode-cn.com/problems/number-of-digit-one)|[数字 1 的个数](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/233.%20数字%201%20的个数)|困难|[数学](https://leetcode-cn.com/tag/math) |
 |[234](https://leetcode-cn.com/problems/palindrome-linked-list)|[回文链表](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/234.%20回文链表)|简单|[链表](https://leetcode-cn.com/tag/linked-list) [双指针](https://leetcode-cn.com/tag/two-pointers) |
 |[235](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree)|[二叉搜索树的最近公共祖先](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/235.%20二叉搜索树的最近公共祖先)|简单|[树](https://leetcode-cn.com/tag/tree) |
 |[236](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree)|[二叉树的最近公共祖先](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/236.%20二叉树的最近公共祖先)|中等|[树](https://leetcode-cn.com/tag/tree) |

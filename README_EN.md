@@ -2,16 +2,16 @@
 | English | [简体中文](README.md) | [Guidance指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/User-starky99-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Solved-426/1645-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/Solved-427/1645-blue.svg?" alt="">
     <img src="https://img.shields.io/badge/Easy-259-green.svg?" alt="">
     <img src="https://img.shields.io/badge/Medium-145-orange.svg?" alt="">
-    <img src="https://img.shields.io/badge/Hard-22-red.svg?" alt="">
+    <img src="https://img.shields.io/badge/Hard-23-red.svg?" alt="">
 </p>
 <h1 align="center">My LeetCode Solutions</h1>
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2020-05-16 15:52:53</b>
+    <b>最近一次更新: 2020-05-16 16:02:27</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
@@ -146,6 +146,7 @@
 |[230](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst)|[Kth Smallest Element in a BST](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/230.%20二叉搜索树中第K小的元素/README_EN.md)|Medium|[Tree](https://leetcode-cn.com/tag/tree) [Binary Search](https://leetcode-cn.com/tag/binary-search) |
 |[231](https://leetcode-cn.com/problems/power-of-two)|[Power of Two](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/231.%202的幂/README_EN.md)|Easy|[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) [Math](https://leetcode-cn.com/tag/math) |
 |[232](https://leetcode-cn.com/problems/implement-queue-using-stacks)|[Implement Queue using Stacks](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/232.%20用栈实现队列/README_EN.md)|Easy|[Stack](https://leetcode-cn.com/tag/stack) [Design](https://leetcode-cn.com/tag/design) |
+|[233](https://leetcode-cn.com/problems/number-of-digit-one)|[Number of Digit One](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/233.%20数字%201%20的个数/README_EN.md)|Hard|[Math](https://leetcode-cn.com/tag/math) |
 |[234](https://leetcode-cn.com/problems/palindrome-linked-list)|[Palindrome Linked List](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/234.%20回文链表/README_EN.md)|Easy|[Linked List](https://leetcode-cn.com/tag/linked-list) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) |
 |[235](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree)|[Lowest Common Ancestor of a Binary Search Tree](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/235.%20二叉搜索树的最近公共祖先/README_EN.md)|Easy|[Tree](https://leetcode-cn.com/tag/tree) |
 |[236](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree)|[Lowest Common Ancestor of a Binary Tree](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/236.%20二叉树的最近公共祖先/README_EN.md)|Medium|[Tree](https://leetcode-cn.com/tag/tree) |
