@@ -2,16 +2,16 @@
 | English | [简体中文](README.md) | [Guidance指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/User-starky99-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Solved-428/1649-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Easy-259-green.svg?" alt="">
-    <img src="https://img.shields.io/badge/Medium-145-orange.svg?" alt="">
+    <img src="https://img.shields.io/badge/Solved-431/1653-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/Easy-260-green.svg?" alt="">
+    <img src="https://img.shields.io/badge/Medium-147-orange.svg?" alt="">
     <img src="https://img.shields.io/badge/Hard-24-red.svg?" alt="">
 </p>
 <h1 align="center">My LeetCode Solutions</h1>
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2020-05-17 10:43:33</b>
+    <b>最近一次更新: 2020-05-18 20:54:07</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
@@ -369,6 +369,8 @@
 |[1436](https://leetcode-cn.com/problems/destination-city)|[Destination City](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1436.%20旅行终点站/README_EN.md)|Easy|[String](https://leetcode-cn.com/tag/string) |
 |[1441](https://leetcode-cn.com/problems/build-an-array-with-stack-operations)|[Build an Array With Stack Operations](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1441.%20用栈操作构建数组/README_EN.md)|Easy|[Stack](https://leetcode-cn.com/tag/stack) |
 |[1442](https://leetcode-cn.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor)|[Count Triplets That Can Form Two Arrays of Equal XOR](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1442.%20形成两个异或相等数组的三元组数目/README_EN.md)|Medium|[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) [Array](https://leetcode-cn.com/tag/array) [Math](https://leetcode-cn.com/tag/math) |
+|[1450](https://leetcode-cn.com/problems/number-of-students-doing-homework-at-a-given-time)|[Number of Students Doing Homework at a Given Time](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1450.%20在既定时间做作业的学生人数/README_EN.md)|Easy|[Array](https://leetcode-cn.com/tag/array) |
+|[1451](https://leetcode-cn.com/problems/rearrange-words-in-a-sentence)|[Rearrange Words in a Sentence](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1451.%20重新排列句子中的单词/README_EN.md)|Medium|[Sort](https://leetcode-cn.com/tag/sort) [String](https://leetcode-cn.com/tag/string) |
 |[LCP 01](https://leetcode-cn.com/problems/guess-numbers)|[Guess Numbers](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/LCP%2001.%20猜数字/README_EN.md)|Easy||
 |[面试题 01.06](https://leetcode-cn.com/problems/compress-string-lcci)|[Compress String LCCI](https://github.com/david990917/My-LeetCode-Solutions/tree/master/程序员面试金典/面试题%2001.06.%20字符串压缩/README_EN.md)|Easy|[String](https://leetcode-cn.com/tag/string) |
 |[面试题 04.02](https://leetcode-cn.com/problems/minimum-height-tree-lcci)|[Minimum Height Tree LCCI](https://github.com/david990917/My-LeetCode-Solutions/tree/master/程序员面试金典/面试题%2004.02.%20最小高度树/README_EN.md)|Easy|[Tree](https://leetcode-cn.com/tag/tree) [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) |
