@@ -54,10 +54,15 @@
 
 ### Python
 
-1. 
+1. Python自带的库
 
 ```python
-
+class Solution:
+    def arrangeWords(self, text: str) -> str:
+        text=text.lower()
+        words=text.split()
+        words.sort(key=lambda x:len(x))
+        return (' '.join(words)).capitalize()
 ```
 
 
