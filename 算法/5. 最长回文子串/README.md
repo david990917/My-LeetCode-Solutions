@@ -28,15 +28,26 @@
 
 ### Python
 
-1. 
-
-```python
-
-```
+1. 动态规划的方法
 
 
 ```python
-
+class Solution:
+    def longestPalindrome(self, s: str) -> str:
+        length=len(s)
+        maxPalLength,leftIDX,rightIDX=0,0,0
+        store_table=[[True]*i for i in range(1,length+1)]
+        for j in range(length):
+            for i in range(j+1):
+                if j==i:target=True
+                elif j==i+1:target=(s[i]==s[j])
+                else:target=store_table[j-1][i+1] and (s[i]==s[j])
+                store_table[j][i]=target
+                if target: 
+                    if j-i+1>maxPalLength:
+                        maxPalLength=j-i+1
+                        leftIDX,rightIDX=i,j
+        return s[leftIDX:rightIDX+1]
 ```
 
 ### C++
