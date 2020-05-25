@@ -2,16 +2,16 @@
 | [English](README_EN.md) | 简体中文 | [Guidance指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/用户-starky99-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/已解决-432/1653-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/已解决-433/1658-blue.svg?" alt="">
     <img src="https://img.shields.io/badge/简单-260-green.svg?" alt="">
-    <img src="https://img.shields.io/badge/中等-148-orange.svg?" alt="">
+    <img src="https://img.shields.io/badge/中等-149-orange.svg?" alt="">
     <img src="https://img.shields.io/badge/困难-24-red.svg?" alt="">
 </p>
 <h1 align="center">My LeetCode Solutions</h1>
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2020-05-18 21:02:27</b>
+    <b>最近一次更新: 2020-05-25 22:12:32</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
@@ -101,6 +101,7 @@
 |[141](https://leetcode-cn.com/problems/linked-list-cycle)|[环形链表](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/141.%20环形链表)|简单|[链表](https://leetcode-cn.com/tag/linked-list) [双指针](https://leetcode-cn.com/tag/two-pointers) |
 |[144](https://leetcode-cn.com/problems/binary-tree-preorder-traversal)|[二叉树的前序遍历](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/144.%20二叉树的前序遍历)|中等|[栈](https://leetcode-cn.com/tag/stack) [树](https://leetcode-cn.com/tag/tree) |
 |[145](https://leetcode-cn.com/problems/binary-tree-postorder-traversal)|[二叉树的后序遍历](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/145.%20二叉树的后序遍历)|困难|[栈](https://leetcode-cn.com/tag/stack) [树](https://leetcode-cn.com/tag/tree) |
+|[146](https://leetcode-cn.com/problems/lru-cache)|[LRU缓存机制](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/146.%20LRU缓存机制)|中等|[设计](https://leetcode-cn.com/tag/design) |
 |[148](https://leetcode-cn.com/problems/sort-list)|[排序链表](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/148.%20排序链表)|中等|[排序](https://leetcode-cn.com/tag/sort) [链表](https://leetcode-cn.com/tag/linked-list) |
 |[150](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation)|[逆波兰表达式求值](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/150.%20逆波兰表达式求值)|中等|[栈](https://leetcode-cn.com/tag/stack) |
 |[152](https://leetcode-cn.com/problems/maximum-product-subarray)|[乘积最大子数组](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/152.%20乘积最大子数组)|中等|[数组](https://leetcode-cn.com/tag/array) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) |
