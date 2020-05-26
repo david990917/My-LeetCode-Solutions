@@ -47,10 +47,21 @@
 
 ### Python
 
-1. 
+1. pre 表示位置 i 往前第一个不等于 x 的数字下标
 
 ```python
+class Solution:
+    def smallerNumbersThanCurrent(self, nums: List[int]) -> List[int]:
+        length = len(nums)
+        result = [0 for i in range(length)]
+        temp = sorted([nums[i], i] for i in range(length))
 
+        pre = -1
+        for i in range(length):
+            if i != 0 and temp[i][0] != temp[i - 1][0]:
+                pre = i - 1
+            result[temp[i][1]] = pre + 1
+        return result
 ```
 
 
@@ -61,7 +72,29 @@
 ### C++
 
 ```cpp
+class Solution {
+public:
+    vector<int> smallerNumbersThanCurrent(vector<int>& nums) {
+        int size = nums.size();
+        vector<pair<int, int>>tmp; tmp.clear();
+        vector<int> result(size, 0);
+        for (int i = 0; i < size; i++) {
+            tmp.push_back(make_pair(nums[i], i));
+        }
+        sort(tmp.begin(), tmp.end());
 
+        int pre = -1;
+        for (int i = 0; i < size; i++) {
+            if (i == 0) { result[tmp[i].second] = 0; }
+            else if (tmp[i].first == tmp[i - 1].first) { result[tmp[i].second] = pre + 1; }
+            else {
+                pre = i - 1;
+                result[tmp[i].second] = pre + 1;
+            }
+        }
+        return result;
+    }
+};
 ```
 
 ---
