@@ -36,15 +36,25 @@
 
 ### Python
 
-1. 
+1. 简单的循环计算
 
 ```python
-
+class Solution:
+    def isPowerOfThree(self, n: int) -> bool:
+        if n<=0:return False
+        while n:
+            if n==1:return True
+            if n%3!=0:return False
+            n//=3
 ```
 
+2. 简单的打表
+
 
 ```python
-
+class Solution:
+    def isPowerOfThree(self, n: int) -> bool:
+        return True if(n>0 and 1162261467 % n == 0)else False
 ```
 
 ### C++
