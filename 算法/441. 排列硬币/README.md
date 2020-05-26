@@ -39,10 +39,13 @@ n = 8
 
 ### Python
 
-1. 
+1. 简单的计算
 
 ```python
-
+class Solution:
+    def arrangeCoins(self, n: int) -> int:
+        temp=int((2*n)**0.5)
+        return temp-1 if temp*(temp+1)>2*n else temp
 ```
 
 
