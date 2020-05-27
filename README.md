@@ -2,16 +2,16 @@
 | [English](README_EN.md) | 简体中文 | [Guidance指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/用户-starky99-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/已解决-433/1658-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/已解决-434/1658-blue.svg?" alt="">
     <img src="https://img.shields.io/badge/简单-260-green.svg?" alt="">
-    <img src="https://img.shields.io/badge/中等-149-orange.svg?" alt="">
+    <img src="https://img.shields.io/badge/中等-150-orange.svg?" alt="">
     <img src="https://img.shields.io/badge/困难-24-red.svg?" alt="">
 </p>
 <h1 align="center">My LeetCode Solutions</h1>
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2020-05-25 22:12:32</b>
+    <b>最近一次更新: 2020-05-27 11:11:42</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
@@ -307,6 +307,7 @@
 |[950](https://leetcode-cn.com/problems/reveal-cards-in-increasing-order)|[按递增顺序显示卡牌](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/950.%20按递增顺序显示卡牌)|中等|[数组](https://leetcode-cn.com/tag/array) |
 |[970](https://leetcode-cn.com/problems/powerful-integers)|[强整数](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/970.%20强整数)|简单|[哈希表](https://leetcode-cn.com/tag/hash-table) [数学](https://leetcode-cn.com/tag/math) |
 |[509](https://leetcode-cn.com/problems/fibonacci-number)|[斐波那契数](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/509.%20斐波那契数)|简单|[数组](https://leetcode-cn.com/tag/array) |
+|[974](https://leetcode-cn.com/problems/subarray-sums-divisible-by-k)|[和可被 K 整除的子数组](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/974.%20和可被%20K%20整除的子数组)|中等|[数组](https://leetcode-cn.com/tag/array) [哈希表](https://leetcode-cn.com/tag/hash-table) |
 |[977](https://leetcode-cn.com/problems/squares-of-a-sorted-array)|[有序数组的平方](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/977.%20有序数组的平方)|简单|[数组](https://leetcode-cn.com/tag/array) [双指针](https://leetcode-cn.com/tag/two-pointers) |
 |[983](https://leetcode-cn.com/problems/minimum-cost-for-tickets)|[最低票价](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/983.%20最低票价)|中等|[动态规划](https://leetcode-cn.com/tag/dynamic-programming) |
 |[989](https://leetcode-cn.com/problems/add-to-array-form-of-integer)|[数组形式的整数加法](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/989.%20数组形式的整数加法)|简单|[数组](https://leetcode-cn.com/tag/array) |

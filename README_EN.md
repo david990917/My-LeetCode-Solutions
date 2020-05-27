@@ -2,16 +2,16 @@
 | English | [简体中文](README.md) | [Guidance指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/User-starky99-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Solved-433/1658-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/Solved-434/1658-blue.svg?" alt="">
     <img src="https://img.shields.io/badge/Easy-260-green.svg?" alt="">
-    <img src="https://img.shields.io/badge/Medium-149-orange.svg?" alt="">
+    <img src="https://img.shields.io/badge/Medium-150-orange.svg?" alt="">
     <img src="https://img.shields.io/badge/Hard-24-red.svg?" alt="">
 </p>
 <h1 align="center">My LeetCode Solutions</h1>
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2020-05-25 22:12:32</b>
+    <b>最近一次更新: 2020-05-27 11:11:42</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
@@ -307,6 +307,7 @@
 |[950](https://leetcode-cn.com/problems/reveal-cards-in-increasing-order)|[Reveal Cards In Increasing Order](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/950.%20按递增顺序显示卡牌/README_EN.md)|Medium|[Array](https://leetcode-cn.com/tag/array) |
 |[970](https://leetcode-cn.com/problems/powerful-integers)|[Powerful Integers](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/970.%20强整数/README_EN.md)|Easy|[Hash Table](https://leetcode-cn.com/tag/hash-table) [Math](https://leetcode-cn.com/tag/math) |
 |[509](https://leetcode-cn.com/problems/fibonacci-number)|[Fibonacci Number](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/509.%20斐波那契数/README_EN.md)|Easy|[Array](https://leetcode-cn.com/tag/array) |
+|[974](https://leetcode-cn.com/problems/subarray-sums-divisible-by-k)|[Subarray Sums Divisible by K](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/974.%20和可被%20K%20整除的子数组/README_EN.md)|Medium|[Array](https://leetcode-cn.com/tag/array) [Hash Table](https://leetcode-cn.com/tag/hash-table) |
 |[977](https://leetcode-cn.com/problems/squares-of-a-sorted-array)|[Squares of a Sorted Array](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/977.%20有序数组的平方/README_EN.md)|Easy|[Array](https://leetcode-cn.com/tag/array) [Two Pointers](https://leetcode-cn.com/tag/two-pointers) |
 |[983](https://leetcode-cn.com/problems/minimum-cost-for-tickets)|[Minimum Cost For Tickets](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/983.%20最低票价/README_EN.md)|Medium|[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) |
 |[989](https://leetcode-cn.com/problems/add-to-array-form-of-integer)|[Add to Array-Form of Integer](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/989.%20数组形式的整数加法/README_EN.md)|Easy|[Array](https://leetcode-cn.com/tag/array) |
