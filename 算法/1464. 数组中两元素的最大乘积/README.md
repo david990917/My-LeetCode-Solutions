@@ -41,10 +41,13 @@
 
 ### Python
 
-1. 
+1. 直白的送分题目
 
 ```python
-
+class Solution:
+    def maxProduct(self, nums: List[int]) -> int:
+        nums=sorted(nums)
+        return (nums[-1]-1)*(nums[-2]-1)
 ```
 
 
