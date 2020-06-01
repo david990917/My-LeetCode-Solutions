@@ -47,10 +47,16 @@
 
 ### Python
 
-1. 
+1. 线性遍历
 
 ```python
-
+class Solution:
+    def kidsWithCandies(self, candies: List[int], extraCandies: int) -> List[bool]:
+        maxCount=max(candies)
+        result=[]
+        for i in candies:
+            result.append(i+extraCandies>=maxCount)
+        return result
 ```
 
 
