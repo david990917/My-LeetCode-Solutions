@@ -29,10 +29,18 @@
 
 ### Python
 
-1. 
+1. hashmap 直接操作
 
 ```python
-
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        hashmap={}
+        length=len(nums)
+        for i in range(length):
+            number=target-nums[i]
+            if number in hashmap:
+                return [hashmap[number],i]
+            hashmap[nums[i]]=i
 ```
 
 
@@ -43,7 +51,23 @@
 ### C++
 
 ```cpp
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+        vector<int>result;
+        unordered_map<int,int>hashmap;
 
+        for(int i=0;i<nums.size();i++){
+            int number=target-nums[i];
+            if(hashmap.count(number)){
+                result=vector<int>({hashmap[number],i});
+                break;
+            }
+            hashmap[nums[i]]=i;
+        }
+        return result;
+    }
+};
 ```
 
 ---
