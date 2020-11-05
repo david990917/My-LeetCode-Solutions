@@ -2,16 +2,16 @@
 | English | [简体中文](README.md) | [Guidance指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/User-starky99-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Solved-437/1669-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Easy-262-green.svg?" alt="">
-    <img src="https://img.shields.io/badge/Medium-151-orange.svg?" alt="">
+    <img src="https://img.shields.io/badge/Solved-439/1855-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/Easy-252-green.svg?" alt="">
+    <img src="https://img.shields.io/badge/Medium-163-orange.svg?" alt="">
     <img src="https://img.shields.io/badge/Hard-24-red.svg?" alt="">
 </p>
 <h1 align="center">My LeetCode Solutions</h1>
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2020-06-04 09:45:00</b>
+    <b>最近一次更新: 2020-11-05 11:36:07</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
@@ -92,6 +92,7 @@
 |[121](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock)|[Best Time to Buy and Sell Stock](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/121.%20买卖股票的最佳时机/README_EN.md)|Easy|[Array](https://leetcode-cn.com/tag/array) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) |
 |[122](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii)|[Best Time to Buy and Sell Stock II](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/122.%20买卖股票的最佳时机%20II/README_EN.md)|Easy|[Greedy](https://leetcode-cn.com/tag/greedy) [Array](https://leetcode-cn.com/tag/array) |
 |[125](https://leetcode-cn.com/problems/valid-palindrome)|[Valid Palindrome](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/125.%20验证回文串/README_EN.md)|Easy|[Two Pointers](https://leetcode-cn.com/tag/two-pointers) [String](https://leetcode-cn.com/tag/string) |
+|[126](https://leetcode-cn.com/problems/word-ladder-ii)|[Word Ladder II](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/126.%20单词接龙%20II/README_EN.md)|Hard|[Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) [Array](https://leetcode-cn.com/tag/array) [String](https://leetcode-cn.com/tag/string) [Backtracking](https://leetcode-cn.com/tag/backtracking) |
 |[127](https://leetcode-cn.com/problems/word-ladder)|[Word Ladder](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/127.%20单词接龙/README_EN.md)|Medium|[Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) |
 |[128](https://leetcode-cn.com/problems/longest-consecutive-sequence)|[Longest Consecutive Sequence](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/128.%20最长连续序列/README_EN.md)|Hard|[Union Find](https://leetcode-cn.com/tag/union-find) [Array](https://leetcode-cn.com/tag/array) |
 |[130](https://leetcode-cn.com/problems/surrounded-regions)|[Surrounded Regions](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/130.%20被围绕的区域/README_EN.md)|Medium|[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search) [Union Find](https://leetcode-cn.com/tag/union-find) |
@@ -377,6 +378,7 @@
 |[1450](https://leetcode-cn.com/problems/number-of-students-doing-homework-at-a-given-time)|[Number of Students Doing Homework at a Given Time](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1450.%20在既定时间做作业的学生人数/README_EN.md)|Easy|[Array](https://leetcode-cn.com/tag/array) |
 |[1451](https://leetcode-cn.com/problems/rearrange-words-in-a-sentence)|[Rearrange Words in a Sentence](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1451.%20重新排列句子中的单词/README_EN.md)|Medium|[Sort](https://leetcode-cn.com/tag/sort) [String](https://leetcode-cn.com/tag/string) |
 |[1464](https://leetcode-cn.com/problems/maximum-product-of-two-elements-in-an-array)|[Maximum Product of Two Elements in an Array](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1464.%20数组中两元素的最大乘积/README_EN.md)|Easy|[Array](https://leetcode-cn.com/tag/array) |
+|[1502](https://leetcode-cn.com/problems/can-make-arithmetic-progression-from-sequence)|[Can Make Arithmetic Progression From Sequence](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1502.%20判断能否形成等差数列/README_EN.md)|Easy|[Sort](https://leetcode-cn.com/tag/sort) [Array](https://leetcode-cn.com/tag/array) |
 |[LCP 01](https://leetcode-cn.com/problems/guess-numbers)|[Guess Numbers](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/LCP%2001.%20猜数字/README_EN.md)|Easy||
 |[面试题 01.06](https://leetcode-cn.com/problems/compress-string-lcci)|[Compress String LCCI](https://github.com/david990917/My-LeetCode-Solutions/tree/master/程序员面试金典/面试题%2001.06.%20字符串压缩/README_EN.md)|Easy|[String](https://leetcode-cn.com/tag/string) |
 |[面试题 04.02](https://leetcode-cn.com/problems/minimum-height-tree-lcci)|[Minimum Height Tree LCCI](https://github.com/david990917/My-LeetCode-Solutions/tree/master/程序员面试金典/面试题%2004.02.%20最小高度树/README_EN.md)|Easy|[Tree](https://leetcode-cn.com/tag/tree) [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) |
