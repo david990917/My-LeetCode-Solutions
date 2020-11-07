@@ -2,16 +2,16 @@
 | English | [简体中文](README.md) | [Guidance指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/User-starky99-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Solved-440/1855-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/Solved-441/1856-blue.svg?" alt="">
     <img src="https://img.shields.io/badge/Easy-252-green.svg?" alt="">
     <img src="https://img.shields.io/badge/Medium-164-orange.svg?" alt="">
-    <img src="https://img.shields.io/badge/Hard-24-red.svg?" alt="">
+    <img src="https://img.shields.io/badge/Hard-25-red.svg?" alt="">
 </p>
 <h1 align="center">My LeetCode Solutions</h1>
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2020-11-05 11:41:30</b>
+    <b>最近一次更新: 2020-11-07 22:05:37</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
@@ -175,6 +175,7 @@
 |[300](https://leetcode-cn.com/problems/longest-increasing-subsequence)|[Longest Increasing Subsequence](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/300.%20最长上升子序列/README_EN.md)|Medium|[Binary Search](https://leetcode-cn.com/tag/binary-search) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) |
 |[303](https://leetcode-cn.com/problems/range-sum-query-immutable)|[Range Sum Query - Immutable](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/303.%20区域和检索%20-%20数组不可变/README_EN.md)|Easy|[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) |
 |[326](https://leetcode-cn.com/problems/power-of-three)|[Power of Three](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/326.%203的幂/README_EN.md)|Easy|[Math](https://leetcode-cn.com/tag/math) |
+|[327](https://leetcode-cn.com/problems/count-of-range-sum)|[Count of Range Sum](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/327.%20区间和的个数/README_EN.md)|Hard|[Sort](https://leetcode-cn.com/tag/sort) [Binary Indexed Tree](https://leetcode-cn.com/tag/binary-indexed-tree) [Segment Tree](https://leetcode-cn.com/tag/segment-tree) [Binary Search](https://leetcode-cn.com/tag/binary-search) [Divide and Conquer](https://leetcode-cn.com/tag/divide-and-conquer) |
 |[338](https://leetcode-cn.com/problems/counting-bits)|[Counting Bits](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/338.%20比特位计数/README_EN.md)|Medium|[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) |
 |[342](https://leetcode-cn.com/problems/power-of-four)|[Power of Four](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/342.%204的幂/README_EN.md)|Easy|[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) |
 |[344](https://leetcode-cn.com/problems/reverse-string)|[Reverse String](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/344.%20反转字符串/README_EN.md)|Easy|[Two Pointers](https://leetcode-cn.com/tag/two-pointers) [String](https://leetcode-cn.com/tag/string) |

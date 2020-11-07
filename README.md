@@ -2,16 +2,16 @@
 | [English](README_EN.md) | 简体中文 | [Guidance指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/用户-starky99-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/已解决-440/1855-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/已解决-441/1856-blue.svg?" alt="">
     <img src="https://img.shields.io/badge/简单-252-green.svg?" alt="">
     <img src="https://img.shields.io/badge/中等-164-orange.svg?" alt="">
-    <img src="https://img.shields.io/badge/困难-24-red.svg?" alt="">
+    <img src="https://img.shields.io/badge/困难-25-red.svg?" alt="">
 </p>
 <h1 align="center">My LeetCode Solutions</h1>
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2020-11-05 11:41:30</b>
+    <b>最近一次更新: 2020-11-07 22:05:37</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
@@ -175,6 +175,7 @@
 |[300](https://leetcode-cn.com/problems/longest-increasing-subsequence)|[最长上升子序列](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/300.%20最长上升子序列)|中等|[二分查找](https://leetcode-cn.com/tag/binary-search) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) |
 |[303](https://leetcode-cn.com/problems/range-sum-query-immutable)|[区域和检索 - 数组不可变](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/303.%20区域和检索%20-%20数组不可变)|简单|[动态规划](https://leetcode-cn.com/tag/dynamic-programming) |
 |[326](https://leetcode-cn.com/problems/power-of-three)|[3的幂](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/326.%203的幂)|简单|[数学](https://leetcode-cn.com/tag/math) |
+|[327](https://leetcode-cn.com/problems/count-of-range-sum)|[区间和的个数](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/327.%20区间和的个数)|困难|[排序](https://leetcode-cn.com/tag/sort) [树状数组](https://leetcode-cn.com/tag/binary-indexed-tree) [线段树](https://leetcode-cn.com/tag/segment-tree) [二分查找](https://leetcode-cn.com/tag/binary-search) [分治算法](https://leetcode-cn.com/tag/divide-and-conquer) |
 |[338](https://leetcode-cn.com/problems/counting-bits)|[比特位计数](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/338.%20比特位计数)|中等|[位运算](https://leetcode-cn.com/tag/bit-manipulation) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) |
 |[342](https://leetcode-cn.com/problems/power-of-four)|[4的幂](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/342.%204的幂)|简单|[位运算](https://leetcode-cn.com/tag/bit-manipulation) |
 |[344](https://leetcode-cn.com/problems/reverse-string)|[反转字符串](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/344.%20反转字符串)|简单|[双指针](https://leetcode-cn.com/tag/two-pointers) [字符串](https://leetcode-cn.com/tag/string) |
