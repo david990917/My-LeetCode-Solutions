@@ -2,8 +2,8 @@
 | English | [简体中文](README.md) | [Guidance指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/User-starky99-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Solved-441/1856-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Easy-252-green.svg?" alt="">
+    <img src="https://img.shields.io/badge/Solved-442/1861-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/Easy-253-green.svg?" alt="">
     <img src="https://img.shields.io/badge/Medium-164-orange.svg?" alt="">
     <img src="https://img.shields.io/badge/Hard-25-red.svg?" alt="">
 </p>
@@ -11,7 +11,7 @@
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2020-11-07 22:05:37</b>
+    <b>最近一次更新: 2020-11-14 09:25:36</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
@@ -327,6 +327,7 @@
 |[1106](https://leetcode-cn.com/problems/parsing-a-boolean-expression)|[Parsing A Boolean Expression](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1106.%20解析布尔表达式/README_EN.md)|Hard|[String](https://leetcode-cn.com/tag/string) |
 |[1108](https://leetcode-cn.com/problems/defanging-an-ip-address)|[Defanging an IP Address](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1108.%20IP%20地址无效化/README_EN.md)|Easy|[String](https://leetcode-cn.com/tag/string) |
 |[1111](https://leetcode-cn.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings)|[Maximum Nesting Depth of Two Valid Parentheses Strings](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1111.%20有效括号的嵌套深度/README_EN.md)|Medium|[Greedy](https://leetcode-cn.com/tag/greedy) [Binary Search](https://leetcode-cn.com/tag/binary-search) |
+|[1122](https://leetcode-cn.com/problems/relative-sort-array)|[Relative Sort Array](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1122.%20数组的相对排序/README_EN.md)|Easy|[Sort](https://leetcode-cn.com/tag/sort) [Array](https://leetcode-cn.com/tag/array) |
 |[1299](https://leetcode-cn.com/problems/replace-elements-with-greatest-element-on-right-side)|[Replace Elements with Greatest Element on Right Side](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1299.%20将每个元素替换为右侧最大元素/README_EN.md)|Easy|[Array](https://leetcode-cn.com/tag/array) |
 |[1139](https://leetcode-cn.com/problems/largest-1-bordered-square)|[Largest 1-Bordered Square](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1139.%20最大的以%201%20为边界的正方形/README_EN.md)|Medium|[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) |
 |[1313](https://leetcode-cn.com/problems/decompress-run-length-encoded-list)|[Decompress Run-Length Encoded List](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1313.%20解压缩编码列表/README_EN.md)|Easy|[Array](https://leetcode-cn.com/tag/array) |
