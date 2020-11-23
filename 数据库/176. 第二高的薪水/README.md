@@ -23,12 +23,18 @@
 
 # 解题思路 √
 
-### Python
+### MySQL
 
-1. 
+1. 使用子查询来应对有可能是空表的情况
 
-```python
-
+```mysql
+SELECT (
+    SELECT DISTINCT
+        Salary
+    FROM
+        Employee
+    ORDER BY Salary DESC
+    LIMIT 1 OFFSET 1) AS SecondHighestSalary;
 ```
 
 
