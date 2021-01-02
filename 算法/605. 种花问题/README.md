@@ -36,10 +36,22 @@
 
 ### Python
 
-1. 
+1. 正向操作的思路：前面没有+后面没有 = 我可以在当下进行种植
+
+   思路的要点：首尾的时候自己 feel free去种，所以在分析的时候设置为0
 
 ```python
-
+class Solution:
+    def canPlaceFlowers(self, flowerbed: List[int], n: int) -> bool:
+        length,count=len(flowerbed),0
+        for i in range(length):
+            if flowerbed[i]==1:continue
+            pre=0 if i==0 else flowerbed[i-1]
+            nxt=0 if i==length-1 else flowerbed[i+1]
+            if pre==0 and nxt==0:
+                flowerbed[i]=1
+                count+=1
+        return count>=n
 ```
 
 
