@@ -50,10 +50,16 @@ F(N) = F(N - 1) + F(N - 2), 其中 N &gt; 1.
 
 ### Python
 
-1. 
+1. 使用 `a,b`的形式可以减少存储使用的空间
 
 ```python
-
+class Solution:
+    def fib(self, n: int) -> int:
+        if n==0:return 0
+        a,b=0,1
+        for i in range(n-1):
+            a,b=b,a+b
+        return b
 ```
 
 
@@ -73,4 +79,5 @@ F(N) = F(N - 1) + F(N - 2), 其中 N &gt; 1.
 
 # 整理与总结
 
-1. 
+1. 迭代次数：
+   1. `for i in range(n)` 里面是几就执行几次
