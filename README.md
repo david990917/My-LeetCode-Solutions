@@ -2,16 +2,16 @@
 | [English](README_EN.md) | 简体中文 | [Guidance指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/用户-starky99-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/已解决-443/1870-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/简单-254-green.svg?" alt="">
+    <img src="https://img.shields.io/badge/已解决-446/1924-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/简单-255-green.svg?" alt="">
     <img src="https://img.shields.io/badge/中等-164-orange.svg?" alt="">
-    <img src="https://img.shields.io/badge/困难-25-red.svg?" alt="">
+    <img src="https://img.shields.io/badge/困难-27-red.svg?" alt="">
 </p>
 <h1 align="center">My LeetCode Solutions</h1>
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2020-11-17 15:57:44</b>
+    <b>最近一次更新: 2021-01-06 08:28:26</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
@@ -69,6 +69,7 @@
 |[78](https://leetcode-cn.com/problems/subsets)|[子集](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/78.%20子集)|中等|[位运算](https://leetcode-cn.com/tag/bit-manipulation) [数组](https://leetcode-cn.com/tag/array) [回溯算法](https://leetcode-cn.com/tag/backtracking) |
 |[79](https://leetcode-cn.com/problems/word-search)|[单词搜索](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/79.%20单词搜索)|中等|[数组](https://leetcode-cn.com/tag/array) [回溯算法](https://leetcode-cn.com/tag/backtracking) |
 |[83](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list)|[删除排序链表中的重复元素](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/83.%20删除排序链表中的重复元素)|简单|[链表](https://leetcode-cn.com/tag/linked-list) |
+|[86](https://leetcode-cn.com/problems/partition-list)|[分隔链表](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/86.%20分隔链表)|中等|[链表](https://leetcode-cn.com/tag/linked-list) [双指针](https://leetcode-cn.com/tag/two-pointers) |
 |[88](https://leetcode-cn.com/problems/merge-sorted-array)|[合并两个有序数组](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/88.%20合并两个有序数组)|简单|[数组](https://leetcode-cn.com/tag/array) [双指针](https://leetcode-cn.com/tag/two-pointers) |
 |[90](https://leetcode-cn.com/problems/subsets-ii)|[子集 II](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/90.%20子集%20II)|中等|[数组](https://leetcode-cn.com/tag/array) [回溯算法](https://leetcode-cn.com/tag/backtracking) |
 |[92](https://leetcode-cn.com/problems/reverse-linked-list-ii)|[反转链表 II](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/92.%20反转链表%20II)|中等|[链表](https://leetcode-cn.com/tag/linked-list) |
@@ -157,6 +158,7 @@
 |[236](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree)|[二叉树的最近公共祖先](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/236.%20二叉树的最近公共祖先)|中等|[树](https://leetcode-cn.com/tag/tree) |
 |[237](https://leetcode-cn.com/problems/delete-node-in-a-linked-list)|[删除链表中的节点](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/237.%20删除链表中的节点)|简单|[链表](https://leetcode-cn.com/tag/linked-list) |
 |[238](https://leetcode-cn.com/problems/product-of-array-except-self)|[除自身以外数组的乘积](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/238.%20除自身以外数组的乘积)|中等|[数组](https://leetcode-cn.com/tag/array) |
+|[239](https://leetcode-cn.com/problems/sliding-window-maximum)|[滑动窗口最大值](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/239.%20滑动窗口最大值)|困难|[堆](https://leetcode-cn.com/tag/heap) [None](https://leetcode-cn.com/tag/sliding-window) |
 |[240](https://leetcode-cn.com/problems/search-a-2d-matrix-ii)|[搜索二维矩阵 II](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/240.%20搜索二维矩阵%20II)|中等|[二分查找](https://leetcode-cn.com/tag/binary-search) [分治算法](https://leetcode-cn.com/tag/divide-and-conquer) |
 |[241](https://leetcode-cn.com/problems/different-ways-to-add-parentheses)|[为运算表达式设计优先级](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/241.%20为运算表达式设计优先级)|中等|[分治算法](https://leetcode-cn.com/tag/divide-and-conquer) |
 |[242](https://leetcode-cn.com/problems/valid-anagram)|[有效的字母异位词](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/242.%20有效的字母异位词)|简单|[排序](https://leetcode-cn.com/tag/sort) [哈希表](https://leetcode-cn.com/tag/hash-table) |
@@ -288,6 +290,7 @@
 |[812](https://leetcode-cn.com/problems/largest-triangle-area)|[最大三角形面积](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/812.%20最大三角形面积)|简单|[数学](https://leetcode-cn.com/tag/math) |
 |[820](https://leetcode-cn.com/problems/short-encoding-of-words)|[单词的压缩编码](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/820.%20单词的压缩编码)|中等||
 |[824](https://leetcode-cn.com/problems/goat-latin)|[山羊拉丁文](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/824.%20山羊拉丁文)|简单|[字符串](https://leetcode-cn.com/tag/string) |
+|[830](https://leetcode-cn.com/problems/positions-of-large-groups)|[较大分组的位置](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/830.%20较大分组的位置)|简单|[数组](https://leetcode-cn.com/tag/array) |
 |[622](https://leetcode-cn.com/problems/design-circular-queue)|[设计循环队列](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/622.%20设计循环队列)|中等|[设计](https://leetcode-cn.com/tag/design) [队列](https://leetcode-cn.com/tag/queue) |
 |[832](https://leetcode-cn.com/problems/flipping-an-image)|[翻转图像](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/832.%20翻转图像)|简单|[数组](https://leetcode-cn.com/tag/array) |
 |[836](https://leetcode-cn.com/problems/rectangle-overlap)|[矩形重叠](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/836.%20矩形重叠)|简单|[数学](https://leetcode-cn.com/tag/math) |
