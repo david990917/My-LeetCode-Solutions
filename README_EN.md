@@ -2,8 +2,8 @@
 | English | [简体中文](README.md) | [Guidance指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/User-starky99-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Solved-448/1933-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Easy-255-green.svg?" alt="">
+    <img src="https://img.shields.io/badge/Solved-449/1933-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/Easy-256-green.svg?" alt="">
     <img src="https://img.shields.io/badge/Medium-165-orange.svg?" alt="">
     <img src="https://img.shields.io/badge/Hard-28-red.svg?" alt="">
 </p>
@@ -11,7 +11,7 @@
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2021-01-10 14:25:33</b>
+    <b>最近一次更新: 2021-01-10 15:10:15</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
@@ -150,6 +150,7 @@
 |[221](https://leetcode-cn.com/problems/maximal-square)|[Maximal Square](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/221.%20最大正方形/README_EN.md)|Medium|[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) |
 |[225](https://leetcode-cn.com/problems/implement-stack-using-queues)|[Implement Stack using Queues](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/225.%20用队列实现栈/README_EN.md)|Easy|[Stack](https://leetcode-cn.com/tag/stack) [Design](https://leetcode-cn.com/tag/design) |
 |[226](https://leetcode-cn.com/problems/invert-binary-tree)|[Invert Binary Tree](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/226.%20翻转二叉树/README_EN.md)|Easy|[Tree](https://leetcode-cn.com/tag/tree) |
+|[228](https://leetcode-cn.com/problems/summary-ranges)|[Summary Ranges](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/228.%20汇总区间/README_EN.md)|Easy|[Array](https://leetcode-cn.com/tag/array) |
 |[230](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst)|[Kth Smallest Element in a BST](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/230.%20二叉搜索树中第K小的元素/README_EN.md)|Medium|[Tree](https://leetcode-cn.com/tag/tree) [Binary Search](https://leetcode-cn.com/tag/binary-search) |
 |[231](https://leetcode-cn.com/problems/power-of-two)|[Power of Two](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/231.%202的幂/README_EN.md)|Easy|[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) [Math](https://leetcode-cn.com/tag/math) |
 |[232](https://leetcode-cn.com/problems/implement-queue-using-stacks)|[Implement Queue using Stacks](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/232.%20用栈实现队列/README_EN.md)|Easy|[Stack](https://leetcode-cn.com/tag/stack) [Design](https://leetcode-cn.com/tag/design) |

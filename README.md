@@ -2,8 +2,8 @@
 | [English](README_EN.md) | 简体中文 | [Guidance指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/用户-starky99-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/已解决-448/1933-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/简单-255-green.svg?" alt="">
+    <img src="https://img.shields.io/badge/已解决-449/1933-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/简单-256-green.svg?" alt="">
     <img src="https://img.shields.io/badge/中等-165-orange.svg?" alt="">
     <img src="https://img.shields.io/badge/困难-28-red.svg?" alt="">
 </p>
@@ -11,7 +11,7 @@
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2021-01-10 14:25:33</b>
+    <b>最近一次更新: 2021-01-10 15:10:15</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
@@ -150,6 +150,7 @@
 |[221](https://leetcode-cn.com/problems/maximal-square)|[最大正方形](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/221.%20最大正方形)|中等|[动态规划](https://leetcode-cn.com/tag/dynamic-programming) |
 |[225](https://leetcode-cn.com/problems/implement-stack-using-queues)|[用队列实现栈](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/225.%20用队列实现栈)|简单|[栈](https://leetcode-cn.com/tag/stack) [设计](https://leetcode-cn.com/tag/design) |
 |[226](https://leetcode-cn.com/problems/invert-binary-tree)|[翻转二叉树](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/226.%20翻转二叉树)|简单|[树](https://leetcode-cn.com/tag/tree) |
+|[228](https://leetcode-cn.com/problems/summary-ranges)|[汇总区间](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/228.%20汇总区间)|简单|[数组](https://leetcode-cn.com/tag/array) |
 |[230](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst)|[二叉搜索树中第K小的元素](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/230.%20二叉搜索树中第K小的元素)|中等|[树](https://leetcode-cn.com/tag/tree) [二分查找](https://leetcode-cn.com/tag/binary-search) |
 |[231](https://leetcode-cn.com/problems/power-of-two)|[2的幂](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/231.%202的幂)|简单|[位运算](https://leetcode-cn.com/tag/bit-manipulation) [数学](https://leetcode-cn.com/tag/math) |
 |[232](https://leetcode-cn.com/problems/implement-queue-using-stacks)|[用栈实现队列](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/232.%20用栈实现队列)|简单|[栈](https://leetcode-cn.com/tag/stack) [设计](https://leetcode-cn.com/tag/design) |
