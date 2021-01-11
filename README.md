@@ -2,16 +2,16 @@
 | [English](README_EN.md) | 简体中文 | [Guidance指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/用户-starky99-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/已解决-449/1933-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/已解决-450/1933-blue.svg?" alt="">
     <img src="https://img.shields.io/badge/简单-256-green.svg?" alt="">
-    <img src="https://img.shields.io/badge/中等-165-orange.svg?" alt="">
+    <img src="https://img.shields.io/badge/中等-166-orange.svg?" alt="">
     <img src="https://img.shields.io/badge/困难-28-red.svg?" alt="">
 </p>
 <h1 align="center">My LeetCode Solutions</h1>
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2021-01-10 15:10:15</b>
+    <b>最近一次更新: 2021-01-11 21:07:33</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
@@ -342,6 +342,7 @@
 |[1360](https://leetcode-cn.com/problems/number-of-days-between-two-dates)|[日期之间隔几天](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1360.%20日期之间隔几天)|简单||
 |[1179](https://leetcode-cn.com/problems/reformat-department-table)|[重新格式化部门表](https://github.com/david990917/My-LeetCode-Solutions/tree/master/数据库/1179.%20重新格式化部门表)|简单||
 |[1405](https://leetcode-cn.com/problems/longest-happy-string)|[最长快乐字符串](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1405.%20最长快乐字符串)|中等|[贪心算法](https://leetcode-cn.com/tag/greedy) [动态规划](https://leetcode-cn.com/tag/dynamic-programming) |
+|[1202](https://leetcode-cn.com/problems/smallest-string-with-swaps)|[交换字符串中的元素](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1202.%20交换字符串中的元素)|中等|[并查集](https://leetcode-cn.com/tag/union-find) [数组](https://leetcode-cn.com/tag/array) |
 |[1217](https://leetcode-cn.com/problems/play-with-chips)|[玩筹码](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1217.%20玩筹码)|简单|[贪心算法](https://leetcode-cn.com/tag/greedy) [数组](https://leetcode-cn.com/tag/array) [数学](https://leetcode-cn.com/tag/math) |
 |[1221](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings)|[分割平衡字符串](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1221.%20分割平衡字符串)|简单|[贪心算法](https://leetcode-cn.com/tag/greedy) [字符串](https://leetcode-cn.com/tag/string) |
 |[1237](https://leetcode-cn.com/problems/find-positive-integer-solution-for-a-given-equation)|[找出给定方程的正整数解](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1237.%20找出给定方程的正整数解)|简单|[数学](https://leetcode-cn.com/tag/math) [二分查找](https://leetcode-cn.com/tag/binary-search) |
