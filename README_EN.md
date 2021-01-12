@@ -2,16 +2,16 @@
 | English | [简体中文](README.md) | [Guidance指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/User-starky99-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Solved-450/1933-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/Solved-451/1933-blue.svg?" alt="">
     <img src="https://img.shields.io/badge/Easy-256-green.svg?" alt="">
     <img src="https://img.shields.io/badge/Medium-166-orange.svg?" alt="">
-    <img src="https://img.shields.io/badge/Hard-28-red.svg?" alt="">
+    <img src="https://img.shields.io/badge/Hard-29-red.svg?" alt="">
 </p>
 <h1 align="center">My LeetCode Solutions</h1>
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2021-01-11 21:07:33</b>
+    <b>最近一次更新: 2021-01-12 18:50:30</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
@@ -343,6 +343,7 @@
 |[1179](https://leetcode-cn.com/problems/reformat-department-table)|[Reformat Department Table](https://github.com/david990917/My-LeetCode-Solutions/tree/master/数据库/1179.%20重新格式化部门表/README_EN.md)|Easy||
 |[1405](https://leetcode-cn.com/problems/longest-happy-string)|[Longest Happy String](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1405.%20最长快乐字符串/README_EN.md)|Medium|[Greedy](https://leetcode-cn.com/tag/greedy) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) |
 |[1202](https://leetcode-cn.com/problems/smallest-string-with-swaps)|[Smallest String With Swaps](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1202.%20交换字符串中的元素/README_EN.md)|Medium|[Union Find](https://leetcode-cn.com/tag/union-find) [Array](https://leetcode-cn.com/tag/array) |
+|[1203](https://leetcode-cn.com/problems/sort-items-by-groups-respecting-dependencies)|[Sort Items by Groups Respecting Dependencies](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1203.%20项目管理/README_EN.md)|Hard|[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Graph](https://leetcode-cn.com/tag/graph) [Topological Sort](https://leetcode-cn.com/tag/topological-sort) |
 |[1217](https://leetcode-cn.com/problems/play-with-chips)|[Play with Chips](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1217.%20玩筹码/README_EN.md)|Easy|[Greedy](https://leetcode-cn.com/tag/greedy) [Array](https://leetcode-cn.com/tag/array) [Math](https://leetcode-cn.com/tag/math) |
 |[1221](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings)|[Split a String in Balanced Strings](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1221.%20分割平衡字符串/README_EN.md)|Easy|[Greedy](https://leetcode-cn.com/tag/greedy) [String](https://leetcode-cn.com/tag/string) |
 |[1237](https://leetcode-cn.com/problems/find-positive-integer-solution-for-a-given-equation)|[Find Positive Integer Solution for a Given Equation](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1237.%20找出给定方程的正整数解/README_EN.md)|Easy|[Math](https://leetcode-cn.com/tag/math) [Binary Search](https://leetcode-cn.com/tag/binary-search) |
