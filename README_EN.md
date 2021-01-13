@@ -2,16 +2,16 @@
 | English | [简体中文](README.md) | [Guidance指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/User-starky99-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Solved-451/1933-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/Solved-452/1933-blue.svg?" alt="">
     <img src="https://img.shields.io/badge/Easy-256-green.svg?" alt="">
-    <img src="https://img.shields.io/badge/Medium-166-orange.svg?" alt="">
+    <img src="https://img.shields.io/badge/Medium-167-orange.svg?" alt="">
     <img src="https://img.shields.io/badge/Hard-29-red.svg?" alt="">
 </p>
 <h1 align="center">My LeetCode Solutions</h1>
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2021-01-12 18:50:30</b>
+    <b>最近一次更新: 2021-01-13 11:35:48</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
@@ -267,6 +267,7 @@
 |[671](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree)|[Second Minimum Node In a Binary Tree](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/671.%20二叉树中第二小的节点/README_EN.md)|Easy|[Tree](https://leetcode-cn.com/tag/tree) |
 |[677](https://leetcode-cn.com/problems/map-sum-pairs)|[Map Sum Pairs](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/677.%20键值映射/README_EN.md)|Medium|[Trie](https://leetcode-cn.com/tag/trie) |
 |[680](https://leetcode-cn.com/problems/valid-palindrome-ii)|[Valid Palindrome II](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/680.%20验证回文字符串%20Ⅱ/README_EN.md)|Easy|[String](https://leetcode-cn.com/tag/string) |
+|[684](https://leetcode-cn.com/problems/redundant-connection)|[Redundant Connection](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/684.%20冗余连接/README_EN.md)|Medium|[Tree](https://leetcode-cn.com/tag/tree) [Union Find](https://leetcode-cn.com/tag/union-find) [Graph](https://leetcode-cn.com/tag/graph) |
 |[687](https://leetcode-cn.com/problems/longest-univalue-path)|[Longest Univalue Path](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/687.%20最长同值路径/README_EN.md)|Easy|[Tree](https://leetcode-cn.com/tag/tree) [Recursion](https://leetcode-cn.com/tag/recursion) |
 |[693](https://leetcode-cn.com/problems/binary-number-with-alternating-bits)|[Binary Number with Alternating Bits](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/693.%20交替位二进制数/README_EN.md)|Easy|[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) |
 |[695](https://leetcode-cn.com/problems/max-area-of-island)|[Max Area of Island](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/695.%20岛屿的最大面积/README_EN.md)|Medium|[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Array](https://leetcode-cn.com/tag/array) |

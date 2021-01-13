@@ -2,16 +2,16 @@
 | [English](README_EN.md) | 简体中文 | [Guidance指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/用户-starky99-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/已解决-451/1933-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/已解决-452/1933-blue.svg?" alt="">
     <img src="https://img.shields.io/badge/简单-256-green.svg?" alt="">
-    <img src="https://img.shields.io/badge/中等-166-orange.svg?" alt="">
+    <img src="https://img.shields.io/badge/中等-167-orange.svg?" alt="">
     <img src="https://img.shields.io/badge/困难-29-red.svg?" alt="">
 </p>
 <h1 align="center">My LeetCode Solutions</h1>
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2021-01-12 18:50:30</b>
+    <b>最近一次更新: 2021-01-13 11:35:48</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
@@ -267,6 +267,7 @@
 |[671](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree)|[二叉树中第二小的节点](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/671.%20二叉树中第二小的节点)|简单|[树](https://leetcode-cn.com/tag/tree) |
 |[677](https://leetcode-cn.com/problems/map-sum-pairs)|[键值映射](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/677.%20键值映射)|中等|[字典树](https://leetcode-cn.com/tag/trie) |
 |[680](https://leetcode-cn.com/problems/valid-palindrome-ii)|[验证回文字符串 Ⅱ](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/680.%20验证回文字符串%20Ⅱ)|简单|[字符串](https://leetcode-cn.com/tag/string) |
+|[684](https://leetcode-cn.com/problems/redundant-connection)|[冗余连接](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/684.%20冗余连接)|中等|[树](https://leetcode-cn.com/tag/tree) [并查集](https://leetcode-cn.com/tag/union-find) [图](https://leetcode-cn.com/tag/graph) |
 |[687](https://leetcode-cn.com/problems/longest-univalue-path)|[最长同值路径](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/687.%20最长同值路径)|简单|[树](https://leetcode-cn.com/tag/tree) [递归](https://leetcode-cn.com/tag/recursion) |
 |[693](https://leetcode-cn.com/problems/binary-number-with-alternating-bits)|[交替位二进制数](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/693.%20交替位二进制数)|简单|[位运算](https://leetcode-cn.com/tag/bit-manipulation) |
 |[695](https://leetcode-cn.com/problems/max-area-of-island)|[岛屿的最大面积](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/695.%20岛屿的最大面积)|中等|[深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) [数组](https://leetcode-cn.com/tag/array) |
