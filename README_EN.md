@@ -2,16 +2,16 @@
 | English | [简体中文](README.md) | [Guidance指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/User-starky99-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Solved-453/1935-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/Solved-454/1936-blue.svg?" alt="">
     <img src="https://img.shields.io/badge/Easy-257-green.svg?" alt="">
-    <img src="https://img.shields.io/badge/Medium-167-orange.svg?" alt="">
+    <img src="https://img.shields.io/badge/Medium-168-orange.svg?" alt="">
     <img src="https://img.shields.io/badge/Hard-29-red.svg?" alt="">
 </p>
 <h1 align="center">My LeetCode Solutions</h1>
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2021-01-14 14:15:32</b>
+    <b>最近一次更新: 2021-01-15 03:21:07</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
@@ -314,6 +314,7 @@
 |[944](https://leetcode-cn.com/problems/delete-columns-to-make-sorted)|[Delete Columns to Make Sorted](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/944.%20删列造序/README_EN.md)|Easy|[Greedy](https://leetcode-cn.com/tag/greedy) |
 |[945](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique)|[Minimum Increment to Make Array Unique](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/945.%20使数组唯一的最小增量/README_EN.md)|Medium|[Array](https://leetcode-cn.com/tag/array) |
 |[946](https://leetcode-cn.com/problems/validate-stack-sequences)|[Validate Stack Sequences](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/946.%20验证栈序列/README_EN.md)|Medium|[Stack](https://leetcode-cn.com/tag/stack) |
+|[947](https://leetcode-cn.com/problems/most-stones-removed-with-same-row-or-column)|[Most Stones Removed with Same Row or Column](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/947.%20移除最多的同行或同列石头/README_EN.md)|Medium|[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Union Find](https://leetcode-cn.com/tag/union-find) |
 |[950](https://leetcode-cn.com/problems/reveal-cards-in-increasing-order)|[Reveal Cards In Increasing Order](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/950.%20按递增顺序显示卡牌/README_EN.md)|Medium|[Array](https://leetcode-cn.com/tag/array) |
 |[970](https://leetcode-cn.com/problems/powerful-integers)|[Powerful Integers](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/970.%20强整数/README_EN.md)|Easy|[Hash Table](https://leetcode-cn.com/tag/hash-table) [Math](https://leetcode-cn.com/tag/math) |
 |[509](https://leetcode-cn.com/problems/fibonacci-number)|[Fibonacci Number](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/509.%20斐波那契数/README_EN.md)|Easy|[Array](https://leetcode-cn.com/tag/array) |
