@@ -2,8 +2,8 @@
 | English | [简体中文](README.md) | [Guidance指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/User-starky99-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Solved-452/1933-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Easy-256-green.svg?" alt="">
+    <img src="https://img.shields.io/badge/Solved-453/1935-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/Easy-257-green.svg?" alt="">
     <img src="https://img.shields.io/badge/Medium-167-orange.svg?" alt="">
     <img src="https://img.shields.io/badge/Hard-29-red.svg?" alt="">
 </p>
@@ -11,7 +11,7 @@
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2021-01-13 11:35:48</b>
+    <b>最近一次更新: 2021-01-14 14:15:32</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
@@ -323,6 +323,7 @@
 |[989](https://leetcode-cn.com/problems/add-to-array-form-of-integer)|[Add to Array-Form of Integer](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/989.%20数组形式的整数加法/README_EN.md)|Easy|[Array](https://leetcode-cn.com/tag/array) |
 |[999](https://leetcode-cn.com/problems/available-captures-for-rook)|[Available Captures for Rook](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/999.%20可以被一步捕获的棋子数/README_EN.md)|Easy|[Array](https://leetcode-cn.com/tag/array) |
 |[1009](https://leetcode-cn.com/problems/complement-of-base-10-integer)|[Complement of Base 10 Integer](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1009.%20十进制整数的反码/README_EN.md)|Easy|[Math](https://leetcode-cn.com/tag/math) |
+|[1018](https://leetcode-cn.com/problems/binary-prefix-divisible-by-5)|[Binary Prefix Divisible By 5](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1018.%20可被%205%20整除的二进制前缀/README_EN.md)|Easy|[Array](https://leetcode-cn.com/tag/array) |
 |[1025](https://leetcode-cn.com/problems/divisor-game)|[Divisor Game](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1025.%20除数博弈/README_EN.md)|Easy|[Math](https://leetcode-cn.com/tag/math) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) |
 |[1030](https://leetcode-cn.com/problems/matrix-cells-in-distance-order)|[Matrix Cells in Distance Order](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1030.%20距离顺序排列矩阵单元格/README_EN.md)|Easy|[Sort](https://leetcode-cn.com/tag/sort) |
 |[1033](https://leetcode-cn.com/problems/moving-stones-until-consecutive)|[Moving Stones Until Consecutive](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1033.%20移动石子直到连续/README_EN.md)|Easy|[Brainteaser](https://leetcode-cn.com/tag/brainteaser) |
