@@ -2,16 +2,16 @@
 | English | [简体中文](README.md) | [Guidance指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/User-starky99-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Solved-454/1936-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Easy-257-green.svg?" alt="">
-    <img src="https://img.shields.io/badge/Medium-168-orange.svg?" alt="">
-    <img src="https://img.shields.io/badge/Hard-29-red.svg?" alt="">
+    <img src="https://img.shields.io/badge/Solved-457/1940-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/Easy-258-green.svg?" alt="">
+    <img src="https://img.shields.io/badge/Medium-169-orange.svg?" alt="">
+    <img src="https://img.shields.io/badge/Hard-30-red.svg?" alt="">
 </p>
 <h1 align="center">My LeetCode Solutions</h1>
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2021-01-15 03:21:07</b>
+    <b>最近一次更新: 2021-01-18 01:54:51</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
@@ -274,6 +274,7 @@
 |[696](https://leetcode-cn.com/problems/count-binary-substrings)|[Count Binary Substrings](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/696.%20计数二进制子串/README_EN.md)|Easy|[String](https://leetcode-cn.com/tag/string) |
 |[697](https://leetcode-cn.com/problems/degree-of-an-array)|[Degree of an Array](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/697.%20数组的度/README_EN.md)|Easy|[Array](https://leetcode-cn.com/tag/array) |
 |[717](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters)|[1-bit and 2-bit Characters](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/717.%201比特与2比特字符/README_EN.md)|Easy|[Array](https://leetcode-cn.com/tag/array) |
+|[721](https://leetcode-cn.com/problems/accounts-merge)|[Accounts Merge](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/721.%20账户合并/README_EN.md)|Medium|[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Union Find](https://leetcode-cn.com/tag/union-find) |
 |[724](https://leetcode-cn.com/problems/find-pivot-index)|[Find Pivot Index](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/724.%20寻找数组的中心索引/README_EN.md)|Easy|[Array](https://leetcode-cn.com/tag/array) |
 |[728](https://leetcode-cn.com/problems/self-dividing-numbers)|[Self Dividing Numbers](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/728.%20自除数/README_EN.md)|Easy|[Math](https://leetcode-cn.com/tag/math) |
 |[733](https://leetcode-cn.com/problems/flood-fill)|[Flood Fill](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/733.%20图像渲染/README_EN.md)|Easy|[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) |
@@ -291,6 +292,7 @@
 |[783](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes)|[Minimum Distance Between BST Nodes](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/783.%20二叉搜索树节点最小距离/README_EN.md)|Easy|[Tree](https://leetcode-cn.com/tag/tree) [Recursion](https://leetcode-cn.com/tag/recursion) |
 |[784](https://leetcode-cn.com/problems/letter-case-permutation)|[Letter Case Permutation](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/784.%20字母大小写全排列/README_EN.md)|Easy|[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) [Backtracking](https://leetcode-cn.com/tag/backtracking) |
 |[706](https://leetcode-cn.com/problems/design-hashmap)|[Design HashMap](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/706.%20设计哈希映射/README_EN.md)|Easy|[Design](https://leetcode-cn.com/tag/design) [Hash Table](https://leetcode-cn.com/tag/hash-table) |
+|[803](https://leetcode-cn.com/problems/bricks-falling-when-hit)|[Bricks Falling When Hit](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/803.%20打砖块/README_EN.md)|Hard|[Union Find](https://leetcode-cn.com/tag/union-find) |
 |[812](https://leetcode-cn.com/problems/largest-triangle-area)|[Largest Triangle Area](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/812.%20最大三角形面积/README_EN.md)|Easy|[Math](https://leetcode-cn.com/tag/math) |
 |[820](https://leetcode-cn.com/problems/short-encoding-of-words)|[Short Encoding of Words](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/820.%20单词的压缩编码/README_EN.md)|Medium||
 |[824](https://leetcode-cn.com/problems/goat-latin)|[Goat Latin](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/824.%20山羊拉丁文/README_EN.md)|Easy|[String](https://leetcode-cn.com/tag/string) |
@@ -349,6 +351,7 @@
 |[1203](https://leetcode-cn.com/problems/sort-items-by-groups-respecting-dependencies)|[Sort Items by Groups Respecting Dependencies](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1203.%20项目管理/README_EN.md)|Hard|[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Graph](https://leetcode-cn.com/tag/graph) [Topological Sort](https://leetcode-cn.com/tag/topological-sort) |
 |[1217](https://leetcode-cn.com/problems/play-with-chips)|[Play with Chips](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1217.%20玩筹码/README_EN.md)|Easy|[Greedy](https://leetcode-cn.com/tag/greedy) [Array](https://leetcode-cn.com/tag/array) [Math](https://leetcode-cn.com/tag/math) |
 |[1221](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings)|[Split a String in Balanced Strings](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1221.%20分割平衡字符串/README_EN.md)|Easy|[Greedy](https://leetcode-cn.com/tag/greedy) [String](https://leetcode-cn.com/tag/string) |
+|[1232](https://leetcode-cn.com/problems/check-if-it-is-a-straight-line)|[Check If It Is a Straight Line](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1232.%20缀点成线/README_EN.md)|Easy|[Geometry](https://leetcode-cn.com/tag/geometry) [Array](https://leetcode-cn.com/tag/array) [Math](https://leetcode-cn.com/tag/math) |
 |[1237](https://leetcode-cn.com/problems/find-positive-integer-solution-for-a-given-equation)|[Find Positive Integer Solution for a Given Equation](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1237.%20找出给定方程的正整数解/README_EN.md)|Easy|[Math](https://leetcode-cn.com/tag/math) [Binary Search](https://leetcode-cn.com/tag/binary-search) |
 |[1227](https://leetcode-cn.com/problems/airplane-seat-assignment-probability)|[Airplane Seat Assignment Probability](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1227.%20飞机座位分配概率/README_EN.md)|Medium|[Brainteaser](https://leetcode-cn.com/tag/brainteaser) [Math](https://leetcode-cn.com/tag/math) [Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming) |
 |[1248](https://leetcode-cn.com/problems/count-number-of-nice-subarrays)|[Count Number of Nice Subarrays](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1248.%20统计「优美子数组」/README_EN.md)|Medium|[Two Pointers](https://leetcode-cn.com/tag/two-pointers) |
