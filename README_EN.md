@@ -2,8 +2,8 @@
 | English | [简体中文](README.md) | [Guidance指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/User-starky99-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Solved-462/1941-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Easy-260-green.svg?" alt="">
+    <img src="https://img.shields.io/badge/Solved-463/1941-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/Easy-261-green.svg?" alt="">
     <img src="https://img.shields.io/badge/Medium-171-orange.svg?" alt="">
     <img src="https://img.shields.io/badge/Hard-31-red.svg?" alt="">
 </p>
@@ -11,7 +11,7 @@
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2021-01-21 12:17:08</b>
+    <b>最近一次更新: 2021-01-21 12:24:57</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
@@ -361,6 +361,7 @@
 |[1290](https://leetcode-cn.com/problems/convert-binary-number-in-a-linked-list-to-integer)|[Convert Binary Number in a Linked List to Integer](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1290.%20二进制链表转整数/README_EN.md)|Easy|[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) [Linked List](https://leetcode-cn.com/tag/linked-list) |
 |[1292](https://leetcode-cn.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold)|[Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1292.%20元素和小于等于阈值的正方形的最大边长/README_EN.md)|Medium|[Array](https://leetcode-cn.com/tag/array) [Binary Search](https://leetcode-cn.com/tag/binary-search) |
 |[1295](https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits)|[Find Numbers with Even Number of Digits](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1295.%20统计位数为偶数的数字/README_EN.md)|Easy|[Array](https://leetcode-cn.com/tag/array) |
+|[1317](https://leetcode-cn.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers)|[Convert Integer to the Sum of Two No-Zero Integers](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1317.%20将整数转换为两个无零整数的和/README_EN.md)|Easy|[Math](https://leetcode-cn.com/tag/math) |
 |[1342](https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero)|[Number of Steps to Reduce a Number to Zero](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1342.%20将数字变成%200%20的操作次数/README_EN.md)|Easy|[Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) |
 |[1323](https://leetcode-cn.com/problems/maximum-69-number)|[Maximum 69 Number](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1323.%206%20和%209%20组成的最大数字/README_EN.md)|Easy|[Math](https://leetcode-cn.com/tag/math) |
 |[1356](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits)|[Sort Integers by The Number of 1 Bits](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1356.%20根据数字二进制下%201%20的数目排序/README_EN.md)|Easy|[Sort](https://leetcode-cn.com/tag/sort) [Bit Manipulation](https://leetcode-cn.com/tag/bit-manipulation) |
