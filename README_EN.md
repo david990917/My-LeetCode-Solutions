@@ -2,16 +2,16 @@
 | English | [简体中文](README.md) | [Guidance指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/User-starky99-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Solved-461/1940-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/Solved-462/1941-blue.svg?" alt="">
     <img src="https://img.shields.io/badge/Easy-260-green.svg?" alt="">
     <img src="https://img.shields.io/badge/Medium-171-orange.svg?" alt="">
-    <img src="https://img.shields.io/badge/Hard-30-red.svg?" alt="">
+    <img src="https://img.shields.io/badge/Hard-31-red.svg?" alt="">
 </p>
 <h1 align="center">My LeetCode Solutions</h1>
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2021-01-20 23:41:05</b>
+    <b>最近一次更新: 2021-01-21 12:17:08</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
@@ -396,6 +396,7 @@
 |[1451](https://leetcode-cn.com/problems/rearrange-words-in-a-sentence)|[Rearrange Words in a Sentence](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1451.%20重新排列句子中的单词/README_EN.md)|Medium|[Sort](https://leetcode-cn.com/tag/sort) [String](https://leetcode-cn.com/tag/string) |
 |[1464](https://leetcode-cn.com/problems/maximum-product-of-two-elements-in-an-array)|[Maximum Product of Two Elements in an Array](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1464.%20数组中两元素的最大乘积/README_EN.md)|Easy|[Array](https://leetcode-cn.com/tag/array) |
 |[1480](https://leetcode-cn.com/problems/running-sum-of-1d-array)|[Running Sum of 1d Array](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1480.%20一维数组的动态和/README_EN.md)|Easy|[Array](https://leetcode-cn.com/tag/array) |
+|[1489](https://leetcode-cn.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree)|[Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1489.%20找到最小生成树里的关键边和伪关键边/README_EN.md)|Hard|[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) [Union Find](https://leetcode-cn.com/tag/union-find) |
 |[1502](https://leetcode-cn.com/problems/can-make-arithmetic-progression-from-sequence)|[Can Make Arithmetic Progression From Sequence](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1502.%20判断能否形成等差数列/README_EN.md)|Easy|[Sort](https://leetcode-cn.com/tag/sort) [Array](https://leetcode-cn.com/tag/array) |
 |[1512](https://leetcode-cn.com/problems/number-of-good-pairs)|[Number of Good Pairs](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1512.%20好数对的数目/README_EN.md)|Easy|[Array](https://leetcode-cn.com/tag/array) [Hash Table](https://leetcode-cn.com/tag/hash-table) [Math](https://leetcode-cn.com/tag/math) |
 |[1584](https://leetcode-cn.com/problems/min-cost-to-connect-all-points)|[Min Cost to Connect All Points](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1584.%20连接所有点的最小费用/README_EN.md)|Medium|[Union Find](https://leetcode-cn.com/tag/union-find) |
