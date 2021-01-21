@@ -2,8 +2,8 @@
 | English | [简体中文](README.md) | [Guidance指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/User-starky99-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Solved-463/1941-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Easy-261-green.svg?" alt="">
+    <img src="https://img.shields.io/badge/Solved-464/1941-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/Easy-262-green.svg?" alt="">
     <img src="https://img.shields.io/badge/Medium-171-orange.svg?" alt="">
     <img src="https://img.shields.io/badge/Hard-31-red.svg?" alt="">
 </p>
@@ -11,7 +11,7 @@
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2021-01-21 12:24:57</b>
+    <b>最近一次更新: 2021-01-21 12:34:55</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
@@ -402,6 +402,7 @@
 |[1512](https://leetcode-cn.com/problems/number-of-good-pairs)|[Number of Good Pairs](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1512.%20好数对的数目/README_EN.md)|Easy|[Array](https://leetcode-cn.com/tag/array) [Hash Table](https://leetcode-cn.com/tag/hash-table) [Math](https://leetcode-cn.com/tag/math) |
 |[1584](https://leetcode-cn.com/problems/min-cost-to-connect-all-points)|[Min Cost to Connect All Points](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1584.%20连接所有点的最小费用/README_EN.md)|Medium|[Union Find](https://leetcode-cn.com/tag/union-find) |
 |[1672](https://leetcode-cn.com/problems/richest-customer-wealth)|[Richest Customer Wealth](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1672.%20最富有客户的资产总量/README_EN.md)|Easy|[Array](https://leetcode-cn.com/tag/array) |
+|[1716](https://leetcode-cn.com/problems/calculate-money-in-leetcode-bank)|[Calculate Money in Leetcode Bank](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1716.%20计算力扣银行的钱/README_EN.md)|Easy|[Greedy](https://leetcode-cn.com/tag/greedy) [Math](https://leetcode-cn.com/tag/math) |
 |[LCP 01](https://leetcode-cn.com/problems/guess-numbers)|[Guess Numbers](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/LCP%2001.%20猜数字/README_EN.md)|Easy||
 |[面试题 01.06](https://leetcode-cn.com/problems/compress-string-lcci)|[Compress String LCCI](https://github.com/david990917/My-LeetCode-Solutions/tree/master/程序员面试金典/面试题%2001.06.%20字符串压缩/README_EN.md)|Easy|[String](https://leetcode-cn.com/tag/string) |
 |[面试题 04.02](https://leetcode-cn.com/problems/minimum-height-tree-lcci)|[Minimum Height Tree LCCI](https://github.com/david990917/My-LeetCode-Solutions/tree/master/程序员面试金典/面试题%2004.02.%20最小高度树/README_EN.md)|Easy|[Tree](https://leetcode-cn.com/tag/tree) [Depth-first Search](https://leetcode-cn.com/tag/depth-first-search) |

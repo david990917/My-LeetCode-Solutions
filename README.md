@@ -2,8 +2,8 @@
 | [English](README_EN.md) | 简体中文 | [Guidance指南](Guidance.md) |
 <p align="center">
     <img src="https://img.shields.io/badge/用户-starky99-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/已解决-463/1941-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/简单-261-green.svg?" alt="">
+    <img src="https://img.shields.io/badge/已解决-464/1941-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/简单-262-green.svg?" alt="">
     <img src="https://img.shields.io/badge/中等-171-orange.svg?" alt="">
     <img src="https://img.shields.io/badge/困难-31-red.svg?" alt="">
 </p>
@@ -11,7 +11,7 @@
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2021-01-21 12:24:57</b>
+    <b>最近一次更新: 2021-01-21 12:34:55</b>
     <br>
 </p>
 <p align="center">This repo is powered by <a href="https://github.com/david990917/LeetCode-CN-Crawler">LeetCode-CN-Crawler</a>.</p>
@@ -402,6 +402,7 @@
 |[1512](https://leetcode-cn.com/problems/number-of-good-pairs)|[好数对的数目](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1512.%20好数对的数目)|简单|[数组](https://leetcode-cn.com/tag/array) [哈希表](https://leetcode-cn.com/tag/hash-table) [数学](https://leetcode-cn.com/tag/math) |
 |[1584](https://leetcode-cn.com/problems/min-cost-to-connect-all-points)|[连接所有点的最小费用](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1584.%20连接所有点的最小费用)|中等|[并查集](https://leetcode-cn.com/tag/union-find) |
 |[1672](https://leetcode-cn.com/problems/richest-customer-wealth)|[最富有客户的资产总量](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1672.%20最富有客户的资产总量)|简单|[数组](https://leetcode-cn.com/tag/array) |
+|[1716](https://leetcode-cn.com/problems/calculate-money-in-leetcode-bank)|[计算力扣银行的钱](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/1716.%20计算力扣银行的钱)|简单|[贪心算法](https://leetcode-cn.com/tag/greedy) [数学](https://leetcode-cn.com/tag/math) |
 |[LCP 01](https://leetcode-cn.com/problems/guess-numbers)|[猜数字](https://github.com/david990917/My-LeetCode-Solutions/tree/master/算法/LCP%2001.%20猜数字)|简单||
 |[面试题 01.06](https://leetcode-cn.com/problems/compress-string-lcci)|[字符串压缩](https://github.com/david990917/My-LeetCode-Solutions/tree/master/程序员面试金典/面试题%2001.06.%20字符串压缩)|简单|[字符串](https://leetcode-cn.com/tag/string) |
 |[面试题 04.02](https://leetcode-cn.com/problems/minimum-height-tree-lcci)|[最小高度树](https://github.com/david990917/My-LeetCode-Solutions/tree/master/程序员面试金典/面试题%2004.02.%20最小高度树)|简单|[树](https://leetcode-cn.com/tag/tree) [深度优先搜索](https://leetcode-cn.com/tag/depth-first-search) |
